@@ -1,12 +1,15 @@
 import React from 'react'
 import Navbar from '../Navbar/Navbar'
+import Hometext from "../../Assets/Home_text.svg"
 import "./Home.css"
 
 const Home = () => {
   return (
     <div className='Home'>
         <Navbar/>
-        <p className='Home_text'>Where business, data and dev meet</p>
+        <img src={Hometext} alt=""/>
+        <p className='Home_text'>Register to participate in Think Tech 3.0 and gain access to free courses, games, and lots more.</p>
+        <button className='Home_button'>Register</button>
     </div>
   )
 }

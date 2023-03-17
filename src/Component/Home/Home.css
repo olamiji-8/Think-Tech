@@ -2,13 +2,22 @@
     height: 80vh;
 }
 .Home_text{
-    font-family: 'Enixe';
+    font-family: 'Fantasque Sans Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 54px;
+    /* or 223% */
+    
+    text-align: center;
+}
+.Home_button{
+font-family: 'Fantasque Sans Mono';
 font-style: normal;
 font-weight: 400;
-font-size: 96px;
-line-height: 100px;
-/* or 104% */
+font-size: 24px;
+line-height: 54px;
+/* or 223% */
 
 text-align: center;
-letter-spacing: -0.03em;
 }
