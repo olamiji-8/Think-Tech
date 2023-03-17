@@ -3,6 +3,8 @@
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
+  line-height: 140.02%;
+  font-size: 24px;
 }
 .Navbar_text {
   display: flex;
