@@ -1,8 +1,11 @@
-.Navbar{
-    display: flex;
+.Navbar {
+  display: flex;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
 }
-.Navbar_text{
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
+.Navbar_text {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
