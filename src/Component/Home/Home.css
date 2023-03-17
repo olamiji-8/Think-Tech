@@ -1,23 +1,14 @@
-.Home{
-    height: 80vh;
+.Home {
+  height: 80vh;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 54px;
 }
-.Home_text{
-    font-family: 'Fantasque Sans Mono';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 54px;
-    /* or 223% */
-    
-    text-align: center;
+.Home_text {
+  text-align: center;
 }
-.Home_button{
-font-family: 'Fantasque Sans Mono';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 54px;
-/* or 223% */
-
-text-align: center;
+.Home_button {
+  text-align: center;
 }
