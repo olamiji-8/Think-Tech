@@ -1,5 +1,31 @@
-.Schedule{
-    height: 80vh;
-    background-color: #CAE6FF66;
-    ;
+.Schedule {
+  height: 80vh;
+  background-color: #cae6ff66;
+}
+.Schedule_text {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 59px;
+}
+.Schedule_text_morning {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 14.1143px 152.905px;
+  gap: 5.88px;
+
+  position: absolute;
+  width: 598.68px;
+  height: 96.45px;
+  left: 211.57px;
+  top: 235px;
+
+  /* Think white */
+
+  background: #fdfdfd;
+  box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.1);
+  border-radius: 0px;
 }

@@ -4,7 +4,11 @@ import "./Schedule.css"
 const Schedule = () => {
   return (
     <div className='Schedule'>
-        Schedule
+       <p className='Schedule_text'>SCHEDULE</p>
+       <div>
+        <p>MORNING SESSION</p>
+        <p>AFTERNOON SESSION</p>
+       </div>
     </div>
   )
 }
