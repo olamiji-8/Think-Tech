@@ -1,4 +1,8 @@
 .Navbar{
     display: flex;
-    justify-content: space-around;
+}
+.Navbar_text{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
 }
