@@ -5,7 +5,7 @@ const Schedule = () => {
   return (
     <div className='Schedule'>
        <p className='Schedule_text'>SCHEDULE</p>
-       <div>
+       <div className='Schedule_text_session'>
         <p>MORNING SESSION</p>
         <p>AFTERNOON SESSION</p>
        </div>
