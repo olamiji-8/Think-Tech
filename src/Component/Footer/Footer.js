@@ -1,9 +1,12 @@
 import React from 'react'
+import FooterImg from "../../Assets/Footer.svg"
 import "./Footer.css"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>
+        <img src={FooterImg} alt=""/>
+    </div>
   )
 }
 
