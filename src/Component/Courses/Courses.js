@@ -15,6 +15,10 @@ const Courses = () => {
             </div>
             
         </div>
+        <p>Additional Courses</p>
+        <div>
+            
+        </div>
     </div>
   )
 }
