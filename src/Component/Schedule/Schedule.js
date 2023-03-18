@@ -30,6 +30,20 @@ const Schedule = () => {
        <div>
         <p>Mobile Development & Data Analysis</p>
        </div>
+       <div>
+        <p>NFT</p>
+       </div>
+       <div>
+        <p>Personal Branding</p>
+       </div>
+       <div>
+        <p>Workshop 1</p>
+        <p>Mobile Development & Data Analysis</p>
+       </div>
+       <div>
+        <p>Workshop 2</p>
+        <p>Mobile Development & Data Analysis</p>
+       </div>
     </div>
   )
 }
