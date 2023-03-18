@@ -1,6 +1,7 @@
 import React from 'react'
 import About from './Component/About/About'
 import Courses from './Component/Courses/Courses'
+import Footer from './Component/Footer/Footer'
 import Home from './Component/Home/Home'
 import Partners from './Component/Partners/Partners'
 import Sales from './Component/Sales/Sales'
@@ -17,6 +18,7 @@ const App = () => {
       <Courses/>
       <Partners/>
       <Sales/>
+      <Footer/>
     </div>
   )
 }
