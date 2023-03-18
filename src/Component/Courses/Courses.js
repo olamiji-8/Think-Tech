@@ -8,6 +8,13 @@ const Courses = () => {
         <div>
             <p>Major Courses</p>
         </div>
+        <div>
+            <div>
+            <p>Introduction to Mobile Development -  using Flutter</p>
+            <img src=''alt=''/>
+            </div>
+            
+        </div>
     </div>
   )
 }
