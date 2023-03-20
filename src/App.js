@@ -7,6 +7,7 @@ import Partners from './Component/Partners/Partners'
 import Sales from './Component/Sales/Sales'
 import Schedule from './Component/Schedule/Schedule'
 import Speakers from './Component/Speakers/Speakers'
+import Testimony from './Component/Testimony/Testimony'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Courses/>
       <Partners/>
       <Sales/>
+      <Testimony/>
       <Footer/>
     </div>
   )
