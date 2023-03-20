@@ -1,21 +1,23 @@
 import React from 'react'
+import Speaker from "../../Data"
 import "./Speakers.css"
 
 const Speakers = () => {
   return (
     <div className='Speakers'>
         <p className='Speakers_text'>SPEAKERS</p>
-        {/* {
-            Speakers?.map((data)=>(
-                <div key={data.id}>
-                   { <div> <img src={data.images} alt="#" width="80%" height="40%" className='product__img'/> </div>}  
-                   <div>
-                    <h6>{data.name}</h6>
-                    <h6>{data.post}</h6>
-                   </div>
-                </div>
+{Speaker.map( Data =>{
+        return(
+          <div key={Data.id}>
+            <div>
+            <img src={Data.img} alt="" width="80%" height="40%" className='product__img'/>
+            </div>
+            <h2>{Data.name}</h2>
+            <h5>{Data.post}</h5>
+            </div>
+        )
+      })}
 
-            ))} */}
         
     </div>
   )
