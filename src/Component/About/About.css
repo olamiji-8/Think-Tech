@@ -5,10 +5,37 @@
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
-  
 }
 .About_text {
-    line-height: 140.02%;
-    text-align: center;
-    font-size: 50px;
+  line-height: 140.02%;
+  text-align: center;
+  font-size: 50px;
+}
+.About_flex {
+  display: flex;
+}
+.About_para {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 62px;
+  color: #274472;
+  width: 624px;
+  height: 186px;
+  margin-left: 25%;
+}
+.About_subpara {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 60px;
+  color: #726d6d;
+  width: 641px;
+  height: 179px;
+  margin-left: 25%;
+}
+.About_img{
+    margin-left: 15%;
 }
