@@ -12,7 +12,7 @@ const Navbar = () => {
        <p>Speakers</p>
        <p>Speakers</p>
        <p>Shop</p>
-       <button>Register</button>
+       <button style={{backgroundColor:"#CAE6FF", height:"60px", width:"28%"}} className="Navbar_button">Register</button>
        </div>
     </div>
   )
