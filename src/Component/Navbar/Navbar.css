@@ -12,11 +12,12 @@
 .Navbar_text {
   display: flex;
   justify-content: space-between;
-  width: 40%;
+  width: 42%;
 }
 .Navbar_button{
   outline: none;
   cursor: pointer;
   border: none;
   border-radius: 9px;
+  margin-top: 10px;
 }
