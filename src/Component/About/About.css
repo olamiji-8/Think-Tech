@@ -1,3 +1,14 @@
-.About{
-    height: 80vh;
+.About {
+  height: 110vh;
+  width: 100%;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  
+}
+.About_text {
+    line-height: 140.02%;
+    text-align: center;
+    font-size: 50px;
 }
