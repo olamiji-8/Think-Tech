@@ -31,3 +31,24 @@ const Speaker = [
   },
 ];
 export default Speaker;
+
+export const Testimony =[
+  {
+    id:1,
+    testimony:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor Enim arcu fringilla donec arcu fames donec ",
+    name:"Michael Addit",
+    post:"Brand and Business Coach"
+  },
+  {
+    id:2,
+    testimony:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor Enim arcu fringilla donec arcu fames donec ",
+    name:"Michael Addit",
+    post:"Brand and Business Coach"
+  },
+  {
+    id:3,
+    testimony:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor Enim arcu fringilla donec arcu fames donec ",
+    name:"Michael Addit",
+    post:"Brand and Business Coach"
+  }
+]
