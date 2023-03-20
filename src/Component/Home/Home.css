@@ -1,5 +1,5 @@
 .Home {
-  height: 80vh;
+  height: 100vh;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
@@ -8,6 +8,13 @@
 }
 .Home_text {
   text-align: center;
+  width: 54%;
+height: 110px;
+margin-left: 25%;
+margin-right: 27%;
+font-weight: 500;
+font-size: 28px;
+letter-spacing: 2px;
 }
 .Home_button {
   text-align: center;
