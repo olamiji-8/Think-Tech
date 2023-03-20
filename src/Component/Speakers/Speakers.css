@@ -12,3 +12,12 @@
   line-height: 280px;
   text-align: center;
 }
+.Speakers_flex{
+    display: flex;
+}
+.Speakers_grid{
+    display: grid;
+}
+.Speakers_textp{
+    display: grid;
+}
