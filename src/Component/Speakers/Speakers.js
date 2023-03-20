@@ -4,7 +4,7 @@ import "./Speakers.css"
 const Speakers = () => {
   return (
     <div className='Speakers'>
-        <p>SPEAKERS</p>
+        <p className='Speakers_text'>SPEAKERS</p>
         {/* {
             Speakers?.map((data)=>(
                 <div key={data.id}>
