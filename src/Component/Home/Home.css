@@ -1,5 +1,5 @@
 .Home {
-  height: 100vh;
+  height: 110vh;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
@@ -17,5 +17,18 @@ font-size: 28px;
 letter-spacing: 2px;
 }
 .Home_button {
-  text-align: center;
+  height: 80px;
+  background-color: #CAE6FF;
+  width: 20%;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 54px;
+  outline: none;
+  border: none;
+  margin-left: 44%;
+  cursor: pointer;
+  border-radius: 9px;
+  
 }
