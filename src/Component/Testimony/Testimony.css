@@ -19,3 +19,15 @@
   text-transform: uppercase;
   text-align: center;
 }
+
+.Testimony_register {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 140%;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #211c1c;
+}
