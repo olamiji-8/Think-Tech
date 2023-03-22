@@ -26,3 +26,18 @@
 
   text-align: justify;
 }
+.Sales_button{
+    background-color: #cae6ff;
+    height: 96px;
+    border: none;
+    outline: none;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    width: 24%;
+    border: 2px #157EBF solid ;
+    margin-left: 7%;
+    position: absolute;
+    margin-top: -8%;
+}

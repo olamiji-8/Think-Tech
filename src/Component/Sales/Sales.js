@@ -10,7 +10,7 @@ const Sales = () => {
             <p className='Sales_textp'>Don't miss out on the opportunity to get your hands on exclusive Think Tech merchandise! Show your love for technology and join the hype by purchasing our limited edition t-shirts, mugs, and more. Stock is running low, so act fast and secure your gear before it's too late!</p>
             <img src={Cloth} alt='' style={{marginLeft:"4%"}}/>
         </div>
-        <button>Buy Merchandise</button>
+        <button className='Sales_button'>Buy Merchandise</button>
     </div>
   )
 }
