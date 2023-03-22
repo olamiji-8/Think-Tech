@@ -5,9 +5,11 @@ import "./Footer.css"
 const Footer = () => {
   return (
     <div className='Footer'>
-        <img src={FooterImg} alt=""/>
+      <div className='Footer_top'>
+        <img src={FooterImg} alt="" style={{marginTop:"8%"}}/>
         <p className='Footer_text'>Business * Data * Dev</p>
         <p className='Footer_textp'>© 2023. All rights reserved</p>
+    </div>
     </div>
   )
 }

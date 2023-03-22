@@ -1,5 +1,5 @@
 .Footer {
-  height: 30vh;
+  height: 50vh;
   background-color: #cae6ff;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -8,6 +8,7 @@
   line-height: 24px;
   color: #606060;
   text-align: center;
+  
 }
 .Footer_text{
     font-family: "Fantasque Sans Mono";
