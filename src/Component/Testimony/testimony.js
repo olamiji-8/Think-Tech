@@ -18,7 +18,7 @@ const Testimony = () => {
       })}
       </div>
       <div>
-        <p>Frequently Asked Questions</p>
+        <p className='Testimony_question'>Frequently Asked Questions</p>
         <div>
         {Questions.map(Info =>{
         return(

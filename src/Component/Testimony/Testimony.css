@@ -7,6 +7,15 @@
   font-weight: 700;
   font-size: 56px;
   line-height: 59px;
-  color: #211C1C;
+  color: #211c1c;
+  text-align: center;
+}
+.Testimony_question {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 59px;
+  text-transform: uppercase;
   text-align: center;
 }
