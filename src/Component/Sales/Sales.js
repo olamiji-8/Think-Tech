@@ -6,7 +6,7 @@ const Sales = () => {
   return (
     <div className='Sales'>
         <p className='Sales_text'>MERCH SALES</p>
-        <div>
+        <div className='Sales_flex'>
             <p>Don't miss out on the opportunity to get your hands on exclusive Think Tech merchandise! Show your love for technology and join the hype by purchasing our limited edition t-shirts, mugs, and more. Stock is running low, so act fast and secure your gear before it's too late!</p>
             <img src={Cloth} alt=''/>
         </div>

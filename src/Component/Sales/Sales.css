@@ -7,6 +7,9 @@
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
-  line-height: 140%;
+  line-height: 400%;
   text-align: center;
+}
+.Sales_flex{
+    display: flex;
 }
