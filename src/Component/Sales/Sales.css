@@ -1,5 +1,12 @@
-.Sales{
-    height: 70vh;
-    background-color: #EAF5FF;
-    ;
+.Sales {
+  height: 110vh;
+  background-color: #eaf5ff;
+}
+.Sales_text {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 140%;
+  text-align: center;
 }
