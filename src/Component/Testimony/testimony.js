@@ -1,5 +1,5 @@
 import React from 'react'
-import {Testi} from "../../Data"
+import {Questions, Testi} from "../../Data"
 import "./Testimony.css"
 
 const Testimony = () => {
@@ -20,7 +20,13 @@ const Testimony = () => {
       <div>
         <p>Frequently Asked Questions</p>
         <div>
-
+        {Questions.map(Info =>{
+        return(
+          <div>
+            <p>{Info.question}</p>
+          </div>
+        )
+      })}
         </div>
       </div>
       <div>

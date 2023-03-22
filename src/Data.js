@@ -56,26 +56,26 @@ export const Testi =[
 export const Questions =[
   {
     id:1,
-    question1:"I don’t have a laptop can I attend?",
+    question:"I don’t have a laptop can I attend?",
   },
   {
     id:2,
-    question2:"I am not a member of RCF, can I attend?",
+    question:"I am not a member of RCF, can I attend?",
   },
   {
     id:3,
-    question3:"I am not a student of FUTA, can I attend?",
+    question:"I am not a student of FUTA, can I attend?",
   },
   {
     id:4,
-    question4:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"Lorem ipsum dolor sit amet cons ectetur?",
   },
   {
     id:5,
-    question5:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"Lorem ipsum dolor sit amet cons ectetur?",
   },
   {
     id:6,
-    question6:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"Lorem ipsum dolor sit amet cons ectetur?",
   }
 ]
