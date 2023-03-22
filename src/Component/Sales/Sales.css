@@ -10,6 +10,19 @@
   line-height: 400%;
   text-align: center;
 }
-.Sales_flex{
-    display: flex;
+.Sales_flex {
+  display: flex;
+  margin-top: -4%;
+}
+.Sales_textp {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 48px;
+  margin-left: 7%;
+  width: 38%;
+  color: #606060;
+
+  text-align: justify;
 }
