@@ -12,6 +12,10 @@
 }
 .Footer_text{
     font-family: "Fantasque Sans Mono";
+    font-size: 13px;
+    font-weight: 200;
+    margin-top: -0.5%;
+    word-spacing: -3px;
 
 }
 .Footer_textp{
