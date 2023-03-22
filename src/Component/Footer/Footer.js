@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <div className='Footer'>
         <img src={FooterImg} alt=""/>
-        <p>Business * Data * Dev</p>
-        <p>© 2023. All rights reserved</p>
+        <p className='Footer_text'>Business * Data * Dev</p>
+        <p className='Footer_textp'>© 2023. All rights reserved</p>
     </div>
   )
 }
