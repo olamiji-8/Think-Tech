@@ -28,11 +28,11 @@ const Speaker = [
     img: "https://firebasestorage.googleapis.com/v0/b/clone-b643d.appspot.com/o/Amazon%20gift%20card%2Fe1.jpg?alt=media&token=9cc56e8d-43b1-4746-8829-61463bada326",
     name: "Walker",
     post: "CEO",
-  },
-];
+  }
+]
 export default Speaker;
 
-export const Testimony =[
+export const Testi =[
   {
     id:1,
     testimony:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor Enim arcu fringilla donec arcu fames donec ",

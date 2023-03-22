@@ -1,10 +1,22 @@
 import React from 'react'
+import {Testi} from "../../Data"
 import "./Testimony.css"
 
 const Testimony = () => {
   return (
     <div className='Testimony'>
       <p className='Testimony_text'>TESTIMONIALS</p>
+      <div>
+      {Testi.map(Info =>{
+        return(
+          <div>
+            <p>{Info.testimony}</p>
+            <p>{Info.name}</p>
+            <p>{Info.post}</p>
+          </div>
+        )
+      })}
+      </div>
       <div>
         <p>Frequently Asked Questions</p>
         <div>
