@@ -38,7 +38,7 @@ const Testimony = () => {
           </div>
           <div style={{marginLeft:"10%"}}> 
             <p>Name</p>
-            <input type="text" className='Register_input'/>
+            <input type="text" className='Register_input' style={{marginTop:'-30%'}}/>
             <p>Email</p>
             <input type="text" className='Register_input'/>
             <p>Phone Number</p>
