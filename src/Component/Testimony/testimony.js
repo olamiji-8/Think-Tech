@@ -50,7 +50,7 @@ const Testimony = () => {
             </div>
             <div>
               <p>Do You Have Any Knowledge Of The Stack?</p>
-              <div>
+              <div className='Register_level'>
                 <p className='Register_beginner'>Beginner</p>
                 <p className='Register_intermediate'>Intermediate </p>
               </div>
