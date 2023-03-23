@@ -125,6 +125,15 @@
 }
 .Register_stack{
     display: flex;
-    
+    height: 17%;
 }
-background-color: #FFF2C1;
+.Register_mobile{
+    background-color: #FFF2C1;
+    width: 80%;
+   
+}
+.Register_data{
+    background-color: #FFF2C1;
+    margin-left: 7%;
+    width: 80%;
+}
