@@ -51,8 +51,8 @@ const Testimony = () => {
             <div>
               <p>Do You Have Any Knowledge Of The Stack?</p>
               <div>
-                <p>Beginner</p>
-                <p>Intermediate </p>
+                <p className='Register_beginner'>Beginner</p>
+                <p className='Register_intermediate'>Intermediate </p>
               </div>
             </div>
             <div>
