@@ -34,7 +34,7 @@ const Testimony = () => {
         <p className='Testimony_register'>Register Here</p>
         <div className='Register_flex'>
           <div>
-            <img src={Testimg} alt=""/>
+            <img src={Testimg} alt="" style={{marginLeft:"18%"}}/>
           </div>
           <div>
             <p>Name</p>
