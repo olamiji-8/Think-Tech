@@ -1,5 +1,6 @@
 import React from 'react'
 import {Questions, Testi} from "../../Data"
+import Testimg from '../../Assets/Testimony.svg'
 import "./Testimony.css"
 
 const Testimony = () => {
@@ -33,8 +34,7 @@ const Testimony = () => {
         <p className='Testimony_register'>Register Here</p>
         <div>
           <div>
-            <img src='' alt=""/>
-            <img src='' alt=""/>
+            <img src={Testimg} alt=""/>
           </div>
           <div>
             <p>Name</p>
