@@ -32,15 +32,18 @@
   color: #211c1c;
 }
 .Testimony_border {
-  border: 3px yellow solid;
+  border: 1px #157EBF solid;
+  opacity: 0.8;
+  margin: 0.5%;
 }
 .Testimonytext {
-  width: 80%;
+  width: 84%;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 192.02%;
+  padding-left: 7%;
 }
 .Testimonyname {
   font-family: "Fantasque Sans Mono";
@@ -48,6 +51,7 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 225.02%;
+  padding-left: 7%;
 }
 .Testimonypost {
   font-family: "Fantasque Sans Mono";
@@ -55,7 +59,9 @@
   font-weight: 700;
   font-size: 12px;
   line-height: 202.02%;
+  padding-left: 7%;
 }
 .Testimony_flex {
   display: flex;
+  margin: 5%;
 }
