@@ -36,7 +36,7 @@ const Testimony = () => {
           <div>
             <img src={Testimg} alt="" style={{marginLeft:"18%"}}/>
           </div>
-          <div>
+          <div style={{marginLeft:"10%"}}> 
             <p>Name</p>
             <input type="text" className='Register_input'/>
             <p>Email</p>
