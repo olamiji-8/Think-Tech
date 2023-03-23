@@ -30,7 +30,7 @@ const Testimony = () => {
       })}
         </div>
       </div>
-      <div>
+      <div className='Register'>
         <p className='Testimony_register'>Register Here</p>
         <div className='Register_flex'>
           <div>
@@ -42,7 +42,7 @@ const Testimony = () => {
             <p>Email</p>
             <input type="text"/>
             <p>Phone Number</p>
-            <input type="number"/>
+            <input type="tel"/>
             <p>What Stack Are You Interested In?</p>
             <div>
               <p>Mobile Deveopment</p>
