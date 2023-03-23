@@ -59,7 +59,7 @@ const Testimony = () => {
               <p>How Did You Hear About Us?</p>
               <input type="text" className='Register_input'/>
             </div>
-            <button>Submit</button>
+            <button className='Register_button'>Submit</button>
           </div>
         </div>
       </div>

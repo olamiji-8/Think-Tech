@@ -99,10 +99,23 @@
   font-size: 22.333px;
   line-height: 183%;
 }
- .Register_input  {
-    background: transparent;
-    border: none;
-    border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
-    outline: none;
-    width: 150%;
+.Register_input {
+  background: transparent;
+  border: none;
+  border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
+  outline: none;
+  width: 150%;
+}
+.Register_button {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26.7996px;
+  line-height: 28px;
+  background-color: #CAE6FF;
+  outline: none;
+  border: none;
+  width: 85%;
+  height: 7%;
+  border-radius: 12px;
 }
