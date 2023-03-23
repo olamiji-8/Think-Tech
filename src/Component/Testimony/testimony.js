@@ -44,7 +44,7 @@ const Testimony = () => {
             <p>Phone Number</p>
             <input type="tel" className='Register_input' style={{marginTop:'-30%'}}/>
             <p>What Stack Are You Interested In?</p>
-            <div>
+            <div className='Register_stack'>
               <p>Mobile Deveopment</p>
               <p>Data Analysis</p>
             </div>

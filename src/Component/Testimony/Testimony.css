@@ -123,3 +123,8 @@
  margin-top: 10%;
  cursor: pointer;
 }
+.Register_stack{
+    display: flex;
+    
+}
+background-color: #FFF2C1;
