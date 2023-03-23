@@ -19,11 +19,11 @@ const Testimony = () => {
       </div>
       <div>
         <p className='Testimony_question'>Frequently Asked Questions</p>
-        <div>
+        <div className='Questions_flex'>
         {Questions.map(Info =>{
         return(
-          <div>
-            <p>{Info.question}</p>
+          <div className='Questions_border'>
+            <p className='Questions_text'>{Info.question}</p>
           </div>
         )
       })}
