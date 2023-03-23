@@ -38,11 +38,11 @@ const Testimony = () => {
           </div>
           <div>
             <p>Name</p>
-            <input type="text"/>
+            <input type="text" className='Register_input'/>
             <p>Email</p>
-            <input type="text"/>
+            <input type="text" className='Register_input'/>
             <p>Phone Number</p>
-            <input type="tel"/>
+            <input type="tel" className='Register_input'/>
             <p>What Stack Are You Interested In?</p>
             <div>
               <p>Mobile Deveopment</p>
@@ -57,7 +57,7 @@ const Testimony = () => {
             </div>
             <div>
               <p>How Did You Hear About Us?</p>
-              <input type="text"/>
+              <input type="text" className='Register_input'/>
             </div>
             <button>Submit</button>
           </div>
