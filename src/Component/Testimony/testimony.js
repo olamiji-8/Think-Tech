@@ -32,7 +32,7 @@ const Testimony = () => {
       </div>
       <div>
         <p className='Testimony_register'>Register Here</p>
-        <div>
+        <div className='Register_flex'>
           <div>
             <img src={Testimg} alt=""/>
           </div>
