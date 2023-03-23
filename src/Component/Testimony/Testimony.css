@@ -125,15 +125,19 @@
 }
 .Register_stack{
     display: flex;
-    height: 17%;
+    height: 15%;
 }
 .Register_mobile{
     background-color: #FFF2C1;
-    width: 80%;
+    width: 120%;
+    box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
    
 }
 .Register_data{
     background-color: #FFF2C1;
     margin-left: 7%;
-    width: 80%;
+    width: 90%;
+    box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
 }
