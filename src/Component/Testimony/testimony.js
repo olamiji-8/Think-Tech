@@ -43,11 +43,11 @@ const Testimony = () => {
           </div>
           <div style={{marginLeft:"10%"}}> 
             <p>Name</p>
-            <input type="text" className='Register_input' style={{marginTop:'-30%'}}/>
+            <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={name} onChange={(e)=> setName(e.target.value)}/>
             <p>Email</p>
-            <input type="text" className='Register_input'style={{marginTop:'-30%'}}/>
+            <input type="text" className='Register_input'style={{marginTop:'-30%'}} value={email} onChange={(e)=> setEmail(e.target.value)}/>
             <p>Phone Number</p>
-            <input type="tel" className='Register_input' style={{marginTop:'-30%'}}/>
+            <input type="tel" className='Register_input' style={{marginTop:'-30%'}} value={phone} onChange={(e)=> setPhone(e.target.value)}/>
             <p>What Stack Are You Interested In?</p>
             <div className='Register_stack'>
               <p className='Register_mobile'>Mobile Deveopment</p>
@@ -62,7 +62,7 @@ const Testimony = () => {
             </div>
             <div>
               <p>How Did You Hear About Us?</p>
-              <input type="text" className='Register_input' style={{marginTop:'-30%'}}/>
+              <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={input} onChange={(e)=> setInput(e.target.value)}/>
             </div>
             <button className='Register_button'>Submit</button>
           </div>
