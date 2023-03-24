@@ -4,12 +4,11 @@
   background-color: #cae6ff66;
 }
 .Schedule_text {
-  font-family: "Fantasque Sans Mono";
+  font-family: 'Fantasque Sans Mono';
   font-style: normal;
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 300px;
-  text-align: center;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 54px;
 }
 /* .Schedule_text_session {
   background: #fdfdfd;
