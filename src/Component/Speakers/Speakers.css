@@ -15,9 +15,7 @@
 .Speakers_flex{
     display: flex;
 }
-.Speakers_grid{
-    display: grid;
-}
+
 .Speakers_textp{
     display: grid;
 }

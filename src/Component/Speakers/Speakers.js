@@ -6,6 +6,7 @@ const Speakers = () => {
   return (
     <div className='Speakers'>
         <p className='Speakers_text'>SPEAKERS</p>
+        <div className='Speakers_flex'>
         {Speaker.map( Data =>{
         return(
           <div className='Speakers_grid' key={Data.id }>
@@ -16,10 +17,11 @@ const Speakers = () => {
             <h5>{Data.post}</h5>
             </div>
             </div>
+            
         </div>
         )
       })}
-
+</div>
         
     </div>
   )
