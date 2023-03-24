@@ -56,7 +56,7 @@ export const Testi =[
 export const Questions =[
   {
     id:1,
-    question:"I don’t have a laptop can I attend?",
+    question:"Do I have to pay for ThinkTech registration?",
   },
   {
     id:2,
@@ -64,19 +64,19 @@ export const Questions =[
   },
   {
     id:3,
-    question:"I am not a student of FUTA, can I attend?",
+    question:"I don’t have a laptop can I attend?",
   },
   {
     id:4,
-    question:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"I am not Tech Savvy/a Tech Bro, can I attend?",
   },
   {
     id:5,
-    question:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"I am not a student of FUTA, can I attend?",
   },
   {
     id:6,
-    question:"Lorem ipsum dolor sit amet cons ectetur?",
+    question:"Would there be free WiFi ?",
   }
 ]
 
