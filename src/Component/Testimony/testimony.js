@@ -9,6 +9,22 @@ const Testimony = () => {
   const [email, setEmail] = useState("")
   const [phone, setPhone] = useState("")
   const [input ,setInput] = useState("")
+
+  const handleSubmit = (e) =>{
+    e.preventDefault();
+  };
+  db.collection("Registration form")
+  .add({
+    name:name,
+    email:email,
+    phone:phone,
+    input:input,
+  })
+  .then(()=>{
+    alert("Your registration has been submitted")
+  }
+    
+  )
   return (
     <div className='Testimony'>
       <p className='Testimony_text'>TESTIMONIALS</p>
@@ -64,7 +80,7 @@ const Testimony = () => {
               <p>How Did You Hear About Us?</p>
               <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={input} onChange={(e)=> setInput(e.target.value)}/>
             </div>
-            <button className='Register_button' type='submit'>Submit</button>
+            <button className='Register_button' type='submit' onSubmit={handleSubmit}>Submit</button>
           </div>
         </div>
       </div>
