@@ -96,25 +96,25 @@ export const Courses =[
 export const Subcourses =[
   {
     id:1,
-    img:"",
+    img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/meta.svg?alt=media&token=7c5a257d-ba2f-48ab-9b97-4e10f3d8283f",
     title:"Meta Business",
     description:"Manage your Facebook and Instagram marketing on Meta Business Suite for optimal business growth and customer engagement."
   },
   {
   id:2,
-  img:"",
+  img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/nft.svg?alt=media&token=d635806f-67c7-4ad8-8ed4-c56b6fd4da30",
   title:"Understanding NFTS and Blockchain",
   description:"Discover the basics of NFTs and blockchain technology, including how NFTs use the blockchain to enhance security and transparency."
 },
 {
   id:3,
-  img:"",
+  img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/whatsapp.svg?alt=media&token=0ad07355-f84c-4b6d-8354-273e1b01dcb2",
   title:"WhatsApp Business",
   description:"Maximize your sales and exposure using WhatsApp Business. Learn how to optimize your profile, create catalogs, and more."
 },
 {
   id:4,
-  img:"",
+  img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/branding.svg?alt=media&token=eab881d3-6878-46bb-8a4c-cd778b676a3f",
   title:"Personal Branding",
   description:"Develop a strong and consistent brand identity with the use of brand persona, and other related strategies."
 }
