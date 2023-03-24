@@ -11,6 +11,11 @@ const Sales = () => {
             <img src={Cloth} alt='' style={{marginLeft:"4%"}}/>
         </div>
         <button className='Sales_button'>Buy Merchandise</button>
+
+        <div>
+          <img src='' alt=''/>
+          <p>Get a certificate for the event for <span style={{color:"#F3A310"}}>N1,000 </span>  only!</p>
+        </div>
     </div>
   )
 }
