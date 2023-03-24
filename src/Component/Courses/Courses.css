@@ -4,10 +4,13 @@
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
- 
 }
 .Courses_title {
   font-size: 56px;
   text-align: center;
   line-height: 140.02%;
+}
+.Courses_subtitle {
+  font-size: 48px;
+  line-height: 140%;
 }

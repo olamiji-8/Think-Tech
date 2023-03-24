@@ -6,7 +6,7 @@ const Courses = () => {
     <div className='Courses'>
         <p className='Courses_title'>What you’ll be <span style={{backgroundColor:" #157EBF",width:"%", color:"white"}}> learning</span></p>
         <div>
-            <p>Major Courses</p>
+            <p className='Courses_subtitle'>Major Courses</p>
         </div>
         <div>
             <div>
