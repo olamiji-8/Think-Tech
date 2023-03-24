@@ -12,8 +12,8 @@ const Testimony = () => {
 
   const handleSubmit = (e) =>{
     e.preventDefault();
-  };
-  db.collection("Registration form")
+
+    db.collection("Registration form")
   .add({
     name:name,
     email:email,
@@ -28,6 +28,14 @@ const Testimony = () => {
   .catch((error)=>{
     alert(error.message);
   })
+
+  setName("");
+  setEmail("");
+  setPhone("");
+  setInput("");
+  };
+  
+
   return (
     <div className='Testimony'>
       <p className='Testimony_text'>TESTIMONIALS</p>
@@ -60,6 +68,7 @@ const Testimony = () => {
           <div>
             <img src={Testimg} alt="" style={{marginLeft:"18%"}}/>
           </div>
+          
           <div style={{marginLeft:"10%"}}> 
             <p>Name</p>
             <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={name} onChange={(e)=> setName(e.target.value)}/>
