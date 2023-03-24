@@ -35,6 +35,8 @@ const Testimony = () => {
   setInput("");
   };
   
+  console.log(db);
+
 
   return (
     <div className='Testimony'>
@@ -94,6 +96,7 @@ const Testimony = () => {
               <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={input} onChange={(e)=> setInput(e.target.value)}/>
             </div>
             <button className='Register_button' type='submit'>Submit</button>
+           
             </form>
           </div>
         </div>
