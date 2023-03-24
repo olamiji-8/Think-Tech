@@ -1,4 +1,12 @@
-.Courses{
-    height: 100vh;
-    background-color: #FFF2C1;
+.Courses {
+  height: 100vh;
+  background-color: #fff2c1;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140.02%;
+}
+.Courses_title {
+  font-size: 56px;
+  text-align: center;
 }

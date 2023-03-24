@@ -15,8 +15,8 @@ const App = () => {
       <Home/>
       <Schedule/>
       <About/>
-      <Speakers/>
       <Courses/>
+      <Speakers/>
       <Partners/>
       <Sales/>
       <Testimony/>

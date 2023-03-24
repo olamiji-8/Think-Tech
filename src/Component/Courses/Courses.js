@@ -4,7 +4,7 @@ import "./Courses.css"
 const Courses = () => {
   return (
     <div className='Courses'>
-        <p>Our Courses</p>
+        <p className='Courses_title'>What you’ll be learning</p>
         <div>
             <p>Major Courses</p>
         </div>
