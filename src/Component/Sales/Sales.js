@@ -1,5 +1,6 @@
 import React from 'react'
 import Cloth from "../../Assets/Tee 1.svg"
+import Certificate from "../../Assets/certificate.svg"
 import "./Sales.css"
 
 const Sales = () => {
@@ -13,7 +14,7 @@ const Sales = () => {
         <button className='Sales_button'>Buy Merchandise</button>
 
         <div>
-          <img src='' alt=''/>
+          <img src={Certificate} alt=''/>
           <p>Get a certificate for the event for <span style={{color:"#F3A310"}}>N1,000 </span>  only!</p>
         </div>
     </div>
