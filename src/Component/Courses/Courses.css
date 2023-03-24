@@ -16,6 +16,7 @@
 }
 .Courses_flex {
   display: flex;
+  width:100% ;
 }
 .Courses_stack {
   font-family: "Fantasque Sans Mono";
@@ -23,4 +24,11 @@
   font-weight: 700;
   font-size: 32px;
   line-height: 36px;
+}
+.Courses_border {
+  background: #fdfdfd;
+  box-shadow: -2px 2px 9px rgba(0, 0, 0, 0.25);
+  width: 180%;
+  margin: 8%;
+  padding: 20%;
 }

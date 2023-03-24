@@ -13,7 +13,7 @@ const Courses = () => {
           {
             Course.map(data =>{
               return(
-                <div>
+                <div className='Courses_border'>
                   <p className='Courses_stack'>{data.title}</p>
                   <p className='Courses_description'>{data.description}</p>
                 </div>
