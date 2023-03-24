@@ -1,5 +1,5 @@
 .Courses {
-  height: 140vh;
+  height: 180vh;
   background-color: #fff2c1;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -56,8 +56,10 @@
   gap: 19px;
   background: #FFFFFF;
   margin-left: 2%;
+  width: 20%;
 }
 .Courses_subflex {
     display: flex;
+    margin: 0% 7% 0% 7%;
     
   }
