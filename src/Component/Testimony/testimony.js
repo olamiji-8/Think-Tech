@@ -35,7 +35,6 @@ const Testimony = () => {
   setInput("");
   };
   
-  console.log(db);
 
 
   return (
