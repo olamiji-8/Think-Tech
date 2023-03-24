@@ -70,6 +70,7 @@ const Testimony = () => {
           </div>
           
           <div style={{marginLeft:"10%"}}> 
+          <form onSubmit={handleSubmit}>
             <p>Name</p>
             <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={name} onChange={(e)=> setName(e.target.value)}/>
             <p>Email</p>
@@ -92,7 +93,8 @@ const Testimony = () => {
               <p>How Did You Hear About Us?</p>
               <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={input} onChange={(e)=> setInput(e.target.value)}/>
             </div>
-            <button className='Register_button' type='submit' onSubmit={handleSubmit}>Submit</button>
+            <button className='Register_button' type='submit'>Submit</button>
+            </form>
           </div>
         </div>
       </div>
