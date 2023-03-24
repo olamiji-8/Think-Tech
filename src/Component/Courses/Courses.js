@@ -1,4 +1,5 @@
 import React from 'react'
+import { Course } from '../../Data'
 import "./Courses.css"
 
 const Courses = () => {
@@ -9,10 +10,16 @@ const Courses = () => {
             <p className='Courses_subtitle'>Major Courses</p>
         </div>
         <div>
-            <div>
-            <p>Introduction to Mobile Development -  using Flutter</p>
-            <img src=''alt=''/>
-            </div>
+          {
+            Course.map(data =>{
+              return(
+                <div>
+                  <p>{data.title}</p>
+                  <p>{data.description}</p>
+                </div>
+              )
+            })
+          }
             
         </div>
         <p>Additional Courses</p>

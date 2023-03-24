@@ -80,7 +80,7 @@ export const Questions =[
   }
 ]
 
-export const Courses =[
+export const Course =[
   {
     id:1,
     title:"Introduction to Mobile Development -  using Flutter",
