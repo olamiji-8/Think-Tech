@@ -11,9 +11,8 @@ const About = () => {
         <img src={AboutImg} alt=""/>
         </div>
         <div className='About_grid'>
-            <p className='About_para'>Register to participate in Think Tech 3.0</p>
+            <p className='About_para'>Register to participate in <p style={{color:"#F3A310", marginTop:"-2%"}}>Think Tech 3.0</p></p>
             <p className='About_subpara'>and gain access to free courses, games, and lots more. Register to participate in Think Tech 3.0 and gain access to free courses, games, and lots more. Register to participate in Think Tech 3.0 and gain access to free courses, games, and lots more.</p>
-            <button className='About_button'>Get Started Here</button>
         </div>
 
         </div>

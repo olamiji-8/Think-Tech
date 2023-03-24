@@ -39,18 +39,4 @@
 .About_img {
   margin-left: 0.2%;
 }
-.About_button {
-  background-color: #cae6ff;
-  height: 96px;
-  border: none;
-  outline: none;
-  font-family: "Fantasque Sans Mono";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 100%;
-  width: 60%;
-  border: 2px #157EBF solid ;
-  margin-left: 26%;
-  cursor: pointer;
-}
+
