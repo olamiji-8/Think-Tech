@@ -4,7 +4,7 @@ import "./Courses.css"
 const Courses = () => {
   return (
     <div className='Courses'>
-        <p className='Courses_title'>What you’ll be learning</p>
+        <p className='Courses_title'>What you’ll be <span style={{backgroundColor:" #157EBF",width:"%", color:"white"}}> learning</span></p>
         <div>
             <p>Major Courses</p>
         </div>
