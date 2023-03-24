@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import {Questions, Testi} from "../../Data"
 import Testimg from '../../Assets/Testimony.svg'
-import { db } from '../../firebase'
+import {db} from "../../firebase"
 import "./Testimony.css"
 
 const Testimony = () => {
@@ -64,7 +64,7 @@ const Testimony = () => {
               <p>How Did You Hear About Us?</p>
               <input type="text" className='Register_input' style={{marginTop:'-30%'}} value={input} onChange={(e)=> setInput(e.target.value)}/>
             </div>
-            <button className='Register_button'>Submit</button>
+            <button className='Register_button' type='submit'>Submit</button>
           </div>
         </div>
       </div>
