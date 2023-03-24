@@ -12,7 +12,7 @@
   text-align: center;
 }
 .Speakers_flex {
-  display: flex;
+  display: grid;
 }
 
 .Speakers_textp {
