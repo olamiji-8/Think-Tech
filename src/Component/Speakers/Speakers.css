@@ -1,21 +1,20 @@
 .Speakers {
-    width: 100%;
+  width: 100%;
   height: 80vh;
   background-color: #cae6ff;
 }
 .Speakers_text {
-  height: 59px;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
-  font-size: 50px;
-  line-height: 280px;
+  font-size: 56px;
+  line-height: 59px;
   text-align: center;
 }
-.Speakers_flex{
-    display: flex;
+.Speakers_flex {
+  display: flex;
 }
 
-.Speakers_textp{
-    display: grid;
+.Speakers_textp {
+  display: grid;
 }

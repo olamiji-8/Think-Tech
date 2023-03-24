@@ -5,7 +5,7 @@ import "./Speakers.css"
 const Speakers = () => {
   return (
     <div className='Speakers'>
-        <p className='Speakers_text'>SPEAKERS</p>
+        <p className='Speakers_text'>Who you’ll be learning from</p>
         <div className='Speakers_flex'>
         {Speaker.map( Data =>{
         return(
