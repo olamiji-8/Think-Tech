@@ -18,7 +18,7 @@
 .Speakers_textp {
   display: grid;
 }
-.Speakers_text {
+.Speakers_name {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
