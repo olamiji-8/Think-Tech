@@ -21,10 +21,13 @@ const Testimony = () => {
     input:input,
   })
   .then(()=>{
-    alert("Your registration has been submitted")
-  }
-    
+    alert("Your registration has been submitted");
+  } 
   )
+
+  .catch((error)=>{
+    alert(error.message);
+  })
   return (
     <div className='Testimony'>
       <p className='Testimony_text'>TESTIMONIALS</p>
