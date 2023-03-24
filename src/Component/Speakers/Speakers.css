@@ -18,9 +18,23 @@
 .Speakers_textp {
   display: grid;
 }
-.Speakers_text{
+.Speakers_text {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 255.02%;
+  /* identical to box height, or 51px */
 
+  text-align: center;
 }
-.Speakers_post{
-  
+.Speakers_post {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 255.02%;
+  /* identical to box height, or 41px */
+
+  text-align: center;
 }
