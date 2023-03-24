@@ -24,8 +24,6 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 255.02%;
-  /* identical to box height, or 51px */
-
   text-align: center;
 }
 .Speakers_post {
@@ -34,7 +32,5 @@
   font-weight: 700;
   font-size: 16px;
   line-height: 255.02%;
-  /* identical to box height, or 41px */
-
   text-align: center;
 }
