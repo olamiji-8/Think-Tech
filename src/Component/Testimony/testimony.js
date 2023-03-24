@@ -1,9 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 import {Questions, Testi} from "../../Data"
 import Testimg from '../../Assets/Testimony.svg'
+import { db } from '../../firebase'
 import "./Testimony.css"
 
 const Testimony = () => {
+  const [name, setName] = useState("")
+  const [email, setEmail] = useState("")
+  const [phone, setPhone] = useState("")
+  const [input ,setInput] = useState("")
   return (
     <div className='Testimony'>
       <p className='Testimony_text'>TESTIMONIALS</p>
