@@ -1,5 +1,5 @@
 import React from 'react'
-import { Course } from '../../Data'
+import { Course, Subcourses } from '../../Data'
 import "./Courses.css"
 
 const Courses = () => {
@@ -23,8 +23,18 @@ const Courses = () => {
             
         </div>
         <p className='Courses_addition'>Additional Courses</p>
-        <div>
-            
+        <div className='Courses_subflex'>
+           {
+            Subcourses.map(data=>{
+              return(
+                <div className='Courses_subborder'>
+                  <img src={data.img} alt="" />
+                  <p>{data.title}</p>
+                  <p>{data.description}</p>
+                </div>
+              )
+            })
+           } 
         </div>
     </div>
   )

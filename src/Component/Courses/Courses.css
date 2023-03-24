@@ -47,3 +47,17 @@
 
   text-align: center;
 }
+.Courses_subborder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 25px;
+  gap: 19px;
+  background: #FFFFFF;
+  margin-left: 2%;
+}
+.Courses_subflex {
+    display: flex;
+    
+  }
