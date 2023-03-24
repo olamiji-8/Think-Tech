@@ -88,7 +88,7 @@ export const Course =[
   },
   {
     id:2,
-    title:"Introduction to Mobile Development -  using Flutter",
+    title:"Data Analysis – Introduction to Data Science using Python.",
     description:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor."
   }
 ]

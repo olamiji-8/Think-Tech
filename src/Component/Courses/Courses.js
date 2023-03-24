@@ -22,7 +22,7 @@ const Courses = () => {
           }
             
         </div>
-        <p>Additional Courses</p>
+        <p className='Courses_addition'>Additional Courses</p>
         <div>
             
         </div>

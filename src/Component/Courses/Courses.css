@@ -1,5 +1,5 @@
 .Courses {
-  height: 100vh;
+  height: 140vh;
   background-color: #fff2c1;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -17,7 +17,6 @@
 .Courses_flex {
   display: flex;
   margin: 0% 1% 0% 5%;
-  
 }
 .Courses_stack {
   font-family: "Fantasque Sans Mono";
@@ -30,10 +29,21 @@
 .Courses_border {
   background: #fdfdfd;
   box-shadow: -2px 2px 9px rgba(0, 0, 0, 0.25);
- 
+
   margin: 2% 0% 2% 2%;
 
   padding: 1% 10% 1% 18%;
   width: 17%;
+}
+.Courses_addition {
+  width: 448px;
+  height: 67px;
 
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 140%;
+
+  text-align: center;
 }
