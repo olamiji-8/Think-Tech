@@ -14,3 +14,13 @@
   font-size: 48px;
   line-height: 140%;
 }
+.Courses_flex {
+  display: flex;
+}
+.Courses_stack {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 36px;
+}

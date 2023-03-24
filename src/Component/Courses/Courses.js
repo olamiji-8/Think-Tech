@@ -9,13 +9,13 @@ const Courses = () => {
         <div>
             <p className='Courses_subtitle'>Major Courses</p>
         </div>
-        <div>
+        <div className='Courses_flex'>
           {
             Course.map(data =>{
               return(
                 <div>
-                  <p>{data.title}</p>
-                  <p>{data.description}</p>
+                  <p className='Courses_stack'>{data.title}</p>
+                  <p className='Courses_description'>{data.description}</p>
                 </div>
               )
             })
