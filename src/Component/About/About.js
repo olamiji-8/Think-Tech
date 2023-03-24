@@ -8,8 +8,8 @@ const About = () => {
         <p className='About_text'>ABOUT US</p>
         <div className='About_flex'>
         <div className='About_grid'>
-            <p className='About_para'>Lorem ipsum dolor sit amet consectetur. Bibendum ultrices amet commodo donec quis.</p>
-            <p className='About_subpara'>Think Tech is a tech event organised by the ICT Team of RCFFUTA targeted at individuals around FUTA with an interest.</p>
+            <p className='About_para'>Register to participate in Think Tech 3.0</p>
+            <p className='About_subpara'>and gain access to free courses, games, and lots more. Register to participate in Think Tech 3.0 and gain access to free courses, games, and lots more. Register to participate in Think Tech 3.0 and gain access to free courses, games, and lots more.</p>
             <button className='About_button'>Get Started Here</button>
         </div>
         <div className='About_img'>
@@ -21,3 +21,6 @@ const About = () => {
 }
 
 export default About
+
+
+

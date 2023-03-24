@@ -14,7 +14,7 @@ const Testimony = () => {
     e.preventDefault();
 
     db.collection("Registration form")
-  .add({
+    .add({
     name:name,
     email:email,
     phone:phone,
