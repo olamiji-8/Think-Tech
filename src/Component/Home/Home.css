@@ -73,6 +73,8 @@ margin-top: -2.4%;
   }
   .Home_picture{
     position: absolute;
+    width: fit-content;
+
   }
   .Home_text {
     font-family: 'Fantasque Sans Mono';
@@ -81,8 +83,8 @@ margin-top: -2.4%;
     font-size: 32px;
     line-height: 46px;
     text-align: center;
-    width: 68%;
-    margin-left: 18%;
+    width: 237%;
+    margin-left: 67%;
     margin-right: 18%;
     margin-top: -1%;
   }
@@ -104,15 +106,16 @@ margin-top: -2.4%;
   }
   .Home_flex{
     display: flex;
+    margin-left: 20%;
+    gap: 30px;
   }
   .Home_chart{
-  margin-top: 2%;
-  margin-left: 10%;
+  margin-top: 10%;
+  margin-left: 30%;
   
   }
   .Home_pie{
-  margin-left:74% ;
-  margin-top: 7.2%;
+  margin-top: -2%;
   
   }
   .Home_monitor{

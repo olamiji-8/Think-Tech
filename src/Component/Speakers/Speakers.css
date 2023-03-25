@@ -54,3 +54,11 @@
 
 }
 
+@media (min-width: 1025px) and (max-width: 1200px){
+  .Speakers {
+    width: 130%;
+    height: 78vh;
+    background-color: #cae6ff;
+    margin: 0%;
+  }
+}
