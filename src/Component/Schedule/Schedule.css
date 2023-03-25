@@ -90,6 +90,16 @@ text-transform: capitalize;
     margin-left: 259%;
     margin-top: -30%;
 }
+.Schedule_text {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px;
+  width: 44%;
+  padding-left: 18%;
+  padding-top: 10%;
+}
 }
 
 

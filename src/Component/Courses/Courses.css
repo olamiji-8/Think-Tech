@@ -1,5 +1,6 @@
 .Courses {
   height: 200vh;
+  width: 100vw;
   background-color: #fff2c1;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -102,6 +103,12 @@
   
 }
 
+@media (min-width: 320px) and (max-width: 480px){
+  .Courses{
+    height: 332vh;
+    width: 395vw;
+  }
+}
 @media (min-width: 1025px) and (max-width: 1200px){
   .Courses {
     width: 130%;
