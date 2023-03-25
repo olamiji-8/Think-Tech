@@ -21,7 +21,7 @@
   margin: 0% 1% 0% 5%;
 }
 .Courses_stack {
-  font-family: 'Fantasque Sans Mono';
+  font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -29,6 +29,17 @@
   text-align: center;
   margin-left: 5%;
   width: 40%;
+}
+.Courses_description {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  color: #211c1c;
+  opacity: 0.6;
+  margin-left: 5%;
+  width: 60%;
 }
 .Courses_border {
   background: #fdfdfd;
@@ -74,17 +85,16 @@
   color: #211c1c;
 }
 .Courses_descriptionp {
-  font-family: 'Fantasque Sans Mono';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-color: #211C1C;
-opacity: 0.5;
-
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #211c1c;
+  opacity: 0.5;
 }
-.Courses_dflex{
+.Courses_dflex {
   display: flex;
 }
-.Courses_imgflex{
+.Courses_imgflex {
   margin-left: 26%;
 }
