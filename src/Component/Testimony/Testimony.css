@@ -169,3 +169,23 @@
     height: 50px;
 
 }
+
+@media (min-width: 320px) and (max-width: 480px){
+  .Testimony {
+    height: 105vh;
+    width: 381vw;
+  }
+  .Register{
+    width: 362vw;
+    font-size: 41.333px;
+  }
+  .Register_input {
+    background: transparent;
+    border: none;
+    border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
+    outline: none;
+    width: 100%;
+    font-size: larger;
+  }
+}
+
