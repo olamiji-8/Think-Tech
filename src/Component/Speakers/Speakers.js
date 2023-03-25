@@ -10,8 +10,8 @@ const Speakers = () => {
         {Speaker.map( Data =>{
         return(
           <div className='Speakers_grid' key={Data.id }>
-            <div className='Speakers_grid'>
-            <img src={Data.img} alt="" width="80%" height="270px" className='product__img'/>
+            <div className='Speaker_grid'>
+            <img src={Data.img} alt="" width="92%" height="290px" className='product__img'/>
             <p className='Speaker_name'>{Data.name}</p>
             <p className='Speaker_post'>{Data.post}</p>
             </div>

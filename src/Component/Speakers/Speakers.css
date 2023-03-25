@@ -17,6 +17,7 @@
 
 .Speakers_textp {
   display: grid;
+  margin-left: 90%;
 }
 .Speakers_name {
   font-family: "Fantasque Sans Mono";
@@ -33,4 +34,9 @@
   font-size: 16px;
   line-height: 255.02%;
   text-align: center;
+}
+.Speaker_grid{
+  display: grid;
+  margin-left: 2%;
+  margin-right: 2%;
 }
