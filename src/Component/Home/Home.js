@@ -11,10 +11,12 @@ const Home = () => {
   return (
     <div className='Home'>
         <Navbar/>
+        <div className='Home_flex'>
+        <img src={Pie} alt='' className='Home_pie'/>
         <img src={Hometext} alt="" style={{marginLeft:"10%", marginTop:"10%"}} className="Home_picture"/>
+        </div>
         <div>
         <img src={Chart} alt='' className='Home_chart'/>
-        <img src={Pie} alt='' className='Home_pie'/>
         </div>
         {/* <p className='Home_text'>There's room for you in the tech ecosystem. Join us to kickstart your tech journey with the right information and in-demand skills.</p>
         <button className='Home_button'>Register</button>

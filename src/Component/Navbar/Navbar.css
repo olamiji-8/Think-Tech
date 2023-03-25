@@ -6,8 +6,9 @@
   line-height: 140.02%;
   font-size: 24px;
   margin-top: 2%;
-  gap: 80px;
+  gap: 90px;
   justify-content: space-around;
+  
 }
 .Navbar_text {
   display: flex;

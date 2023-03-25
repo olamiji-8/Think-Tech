@@ -5,7 +5,7 @@ import ThinkTech from "../../Assets/ThinkTech_logo 1 (1).svg"
 const Navbar = () => {
   return (
     <div className='Navbar'>
-       <img src={ThinkTech} alt='' style={{cursor:"pointer"}}/>
+       <img src={ThinkTech} alt='' style={{cursor:"pointer", marginLeft:"-3%"}}/>
        <div className='Navbar_text'>
        <p>About</p>
        <p>Courses</p>

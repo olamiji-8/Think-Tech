@@ -37,13 +37,18 @@
   border-radius: 9px;
   
 }
+.Home_flex{
+  display: flex;
+}
 .Home_chart{
-margin-top: 16%;
+margin-top: 2%;
 margin-left: 10%;
 
 }
 .Home_pie{
-margin-left:60% ;
+margin-left:74% ;
+margin-top: 7.2%;
+
 }
 .Home_monitor{
 
