@@ -18,12 +18,12 @@ const Home = () => {
         <div>
         <img src={Chart} alt='' className='Home_chart'/>
         </div>
-        {/* <p className='Home_text'>There's room for you in the tech ecosystem. Join us to kickstart your tech journey with the right information and in-demand skills.</p>
+         <p className='Home_text'>There's room for you in the tech ecosystem. Join us to kickstart your tech journey with the right information and in-demand skills.</p>
         <button className='Home_button'>Register</button>
         <div>
         <img src={Monitor} alt='' className='Home_monitor'/>
         <img src={Work} alt='' className='Home_work'/>
-        </div> */}
+        </div> 
         
        
     </div>

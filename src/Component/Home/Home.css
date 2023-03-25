@@ -51,8 +51,12 @@ margin-top: 7.2%;
 
 }
 .Home_monitor{
-
+position: absolute;
+margin-left: 7%;
+margin-top:6% ;
 }
 .Home_work{
-
+position: absolute;
+margin-left:70% ;
+margin-top: -2%;
 }
