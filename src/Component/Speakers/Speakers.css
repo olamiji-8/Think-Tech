@@ -34,17 +34,14 @@
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
-  line-height: 255.02%;
-  background-color: yellowgreen;
   text-align: center;
 }
 .Speakers_post {
-  font-family: "Fantasque Sans Mono";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 800;
   font-size: 16px;
   text-align: center;
-  background-color: yellow;
 }
 .Speaker_grid{
  display: grid;
