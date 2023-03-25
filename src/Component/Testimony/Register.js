@@ -38,7 +38,7 @@ const Register = () => {
 
 
   return (
-    <div>
+    <div className='Register_height'>
       <div className='Register'>
         <p className='Testimony_register'>Start Learning</p>
         <div className='Register_flex'>
