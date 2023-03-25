@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Testimg from '../../Assets/Testimony.svg'
 import {db} from "../../firebase"
+import Testimony from './Testimony'
 import "./Testimony.css"
 
 const Register = () => {
@@ -37,8 +38,10 @@ const Register = () => {
 
 
   return (
+    <div>
+      <Testimony/>
       <div className='Register'>
-        <p className='Testimony_register'>Register Here</p>
+        <p className='Testimony_register'>Start Learning</p>
         <div className='Register_flex'>
           <div>
             <img src={Testimg} alt="" style={{marginLeft:"18%"}}/>
@@ -74,7 +77,7 @@ const Register = () => {
           </div>
         </div>
       </div>
-    </div>
+      </div>
   )
 }
 

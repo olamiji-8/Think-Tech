@@ -1,5 +1,5 @@
 .Testimony {
-  height: 220vh;
+  height: 68vh;
 }
 .Testimony_text {
   font-family: "Fantasque Sans Mono";
@@ -27,7 +27,6 @@
   font-size: 56px;
   line-height: 140%;
   text-align: center;
-  text-transform: uppercase;
 
   color: #211c1c;
 }
