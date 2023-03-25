@@ -1,5 +1,6 @@
 .Testimony {
   height: 68vh;
+  width: 100vw;
 }
 .Testimony_text {
   font-family: "Fantasque Sans Mono";
