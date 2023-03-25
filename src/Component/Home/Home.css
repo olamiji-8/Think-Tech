@@ -65,7 +65,7 @@ margin-top: -2.4%;
 
 @media (min-width: 320px) and (max-width: 480px){
   .Home {
-    height: 130vh;
+    height: 150vh;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
