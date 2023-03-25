@@ -65,7 +65,7 @@
   margin: 5%;
 }
 .Question{
-  height: 230vh;
+  height: 250vh;
 }
 .Questions_flex {
   display: flex;
@@ -95,7 +95,7 @@
   display: flex;
 }
 .Register_height{
-  height: 160vh;
+  height: 190vh;
 }
 .Register {
   font-family: "Fantasque Sans Mono";
