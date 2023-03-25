@@ -14,10 +14,11 @@ const Sales = () => {
         <button className='Sales_button'>Buy Merchandise</button>
         <img src={price} alt=""  className='Sales_price'/>
 
-        <div>
-          <img src={Certificate} alt=''/>
-          <p>Get a certificate for the event for <span style={{color:"#F3A310"}}>N1,000 </span>  only!</p>
+        <div className='Sales_flex2'>
+          <img src={Certificate} alt=' ' className='Sales_certificate'/>
+          <p className='Sales_textp2'>Get a certificate for the event for <span style={{color:"#F3A310"}}>N1,000 </span>  only!</p>
         </div>
+        <button className='Sales_button2'>Buy Merchandise</button> 
     </div>
   )
 }

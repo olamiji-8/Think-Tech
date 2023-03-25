@@ -40,8 +40,41 @@
   margin-top: -11%;
   cursor: pointer;
 }
+.Sales_button2{
+  background-color: #cae6ff;
+  height: 96px;
+  border: none;
+  outline: none;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  width: 20%;
+  border: 2px #157ebf solid;
+  margin-top: -11%;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 69%;
+  margin-top: -30%;
+}
 .Sales_price{
   position: absolute;
   margin-left: 45%;
   margin-top: -13%;
+}
+.Sales_flex2{
+  display: flex;
+}
+.Sales_textp2{
+  font-family: 'Fantasque Sans Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 122.5%;
+text-align: right;
+margin-right: 10%;
+margin-top: 20%;
+}
+.Sales_certificate{
+  margin-top: -12%;
 }
