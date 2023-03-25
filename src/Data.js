@@ -2,32 +2,32 @@ const Speaker = [
   {
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/1.svg?alt=media&token=e0d9f20b-d1b8-4932-96f1-fbabc149eafc",
-    name: "Walker",
-    post: "CEO",
+    name: "Adewale Adeyemo ",
+    post: "(CEO Zacrac Learning)",
   },
   {
     id: 2,
     img: "https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/2.svg?alt=media&token=5dbfb7de-2bdd-4b18-816e-2779e80d282b",
-    name: "Walker",
-    post: "CEO",
+    name: "Michael Addit",
+    post: "Brand and Business Coach",
   },
   {
     id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/3.svg?alt=media&token=f2307a71-71ad-4d44-88e2-50c692c0c9ab",
-    name: "Walker",
-    post: "CEO",
+    name: "Benjamin",
+    post: "Brand and Business Coach",
   },
   {
     id: 4,
     img: "https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/4.svg?alt=media&token=059976d5-708e-43da-a1c6-360cb58c5f6f",
-    name: "Walker",
-    post: "CEO",
+    name: "Michael Addit",
+    post: "Brand and Business Coach",
   },
   {
     id: 5,
     img: "https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/5.svg?alt=media&token=0940792c-72fa-45f8-bda0-ea5b963a2565",
-    name: "Walker",
-    post: "CEO",
+    name: "Michael Addit",
+    post: "Brand and Business Coach",
   }
 ]
 export default Speaker;
