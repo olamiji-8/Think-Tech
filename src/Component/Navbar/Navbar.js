@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Navbar.css"
-import ThinkTech from "../../Assets/ThinkTech_logo 1.svg"
+import ThinkTech from "../../Assets/ThinkTech_logo 1 (1).svg"
 
 const Navbar = () => {
   return (
