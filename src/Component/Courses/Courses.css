@@ -101,3 +101,14 @@
   height: 40%;
   
 }
+
+@media (min-width: 1025px) and (max-width: 1200px){
+  .Courses {
+    width: 130%;
+    height: 165vh;
+    background-color: #fff2c1;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+  }
+}
