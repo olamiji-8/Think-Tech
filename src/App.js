@@ -18,7 +18,6 @@ const App = () => {
       <About/>
       <Courses/>
       <Speakers/>
-      <Partners/>
       <Sales/>
       <Testimony/>
       <Footer/>
