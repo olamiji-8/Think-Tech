@@ -14,7 +14,10 @@ const Courses = () => {
             Course.map(data =>{
               return(
                 <div className='Courses_border'>
+                  <div className='Courses_dflex'>
                   <p className='Courses_stack'>{data.title}</p>
+                  <img src={data.img} alt="" className='Courses_imgflex'/>
+                  </div>
                   <p className='Courses_description'>{data.description}</p>
                 </div>
               )
@@ -30,7 +33,7 @@ const Courses = () => {
                 <div className='Courses_subborder'>
                   <img src={data.img} alt="" className='Courses_imgp' />
                   <p className='Courses_titlep'> {data.title}</p>
-                  <p className='Courses_description'>{data.description}</p>
+                  <p className='Courses_descriptionp'>{data.description}</p>
                 </div>
               )
             })

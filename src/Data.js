@@ -84,11 +84,13 @@ export const Course =[
   {
     id:1,
     title:"Introduction to Mobile Development -  using Flutter",
+    img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/Man%20working%20with%20data%20graphs.svg?alt=media&token=360932cd-08ac-4a30-8705-c31717bd26ce",
     description:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor."
   },
   {
     id:2,
     title:"Data Analysis – Introduction to Data Science using Python.",
+    img:"https://firebasestorage.googleapis.com/v0/b/think-tech-60779.appspot.com/o/Programming.svg?alt=media&token=ab0ee6fb-90ab-493b-97b2-cb4bc2e35e71",
     description:"Enim arcu fringilla donec arcu fames donec massa quis. Nisi consectetur urna dignissim et rhoncus augue dolor."
   }
 ]
