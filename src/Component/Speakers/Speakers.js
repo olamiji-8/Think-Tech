@@ -11,7 +11,7 @@ const Speakers = () => {
         return(
           <div className='Speakers_grid' key={Data.id }>
             <div className='Speakers_grid'>
-            <img src={Data.img} alt="" width="40%" height="40%" className='product__img'/>
+            <img src={Data.img} alt="" width="80%" height="270px" className='product__img'/>
             <p className='Speaker_name'>{Data.name}</p>
             <p className='Speaker_post'>{Data.post}</p>
             </div>
