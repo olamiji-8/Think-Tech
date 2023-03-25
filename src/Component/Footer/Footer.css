@@ -22,5 +22,9 @@
     font-family: "Fantasque Sans Mono";
     word-spacing: 10px;
     font-size: 18px;
-    margin-left: 2%;
+    margin-left: 1%;
+    margin-top: -1px;
+}
+.Footer_img{
+  width: fit-content;
 }
