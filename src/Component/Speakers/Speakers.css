@@ -13,6 +13,10 @@
 }
 .Speakers_flex {
   display: flex;
+  margin-left: 3%;
+  margin-right: 3%;
+  justify-content: center;
+  
 }
 
 .Speakers_textp {
@@ -36,7 +40,6 @@
   text-align: center;
 }
 .Speaker_grid{
-  display: grid;
-  margin-left: 2%;
-  margin-right: 2%;
+margin-left: 14%;
 }
+
