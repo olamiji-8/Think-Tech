@@ -1,3 +1,6 @@
-.body >p {
+body >p {
     margin: 0px;
+    width: 100%;
+    background-color: yellow;
+    color: red;
 }

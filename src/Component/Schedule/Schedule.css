@@ -1,5 +1,5 @@
 .Schedule {
-  width: 100%;
+  width: 100vw;
   height: 85vh;
   background-color: #cae6ff66;
 }
@@ -56,7 +56,6 @@ text-transform: capitalize;
 
 @media (min-width: 1025px) and (max-width: 1200px){
   .Schedule {
-    width: 130%;
     height: 85vh;
     background-color: #cae6ff66;
   }
