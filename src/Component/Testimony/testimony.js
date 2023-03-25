@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {Questions, Testi} from "../../Data"
+import { Testi} from "../../Data"
 import Testimg from '../../Assets/Testimony.svg'
 import {db} from "../../firebase"
 import "./Testimony.css"
@@ -50,18 +50,6 @@ const Testimony = () => {
           </div>
         )
       })}
-      </div>
-      <div>
-        <p className='Testimony_question'>Frequently Asked Questions</p>
-        <div className='Questions_flex'>
-        {Questions.map(Info =>{
-        return(
-          <div className='Questions_border'>
-            <p className='Questions_text'>{Info.question}</p>
-          </div>
-        )
-      })}
-        </div>
       </div>
       <div className='Register'>
         <p className='Testimony_register'>Register Here</p>
