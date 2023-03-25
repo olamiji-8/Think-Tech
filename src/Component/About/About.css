@@ -1,6 +1,6 @@
 .About {
   height: 110vh;
-  width: 100%;
+  width: 100vw;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
@@ -40,6 +40,32 @@
 }
 .About_img {
   margin-left: 0.1%;
+}
+@media (min-width: 320px) and (max-width: 480px){
+  .About_para {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 62px;
+    color: #274472;
+    width: 700px;
+    margin-left: 94%;
+    margin-top: 40%;
+    padding-top: 14%
+    
+  }
+  .About_subpara {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: #274472;
+    width: 54%;
+   
+    margin-left: 12%;
+  }
 }
 
 @media (min-width: 1025px) and (max-width: 1200px){
