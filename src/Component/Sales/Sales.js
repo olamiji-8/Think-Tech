@@ -1,6 +1,7 @@
 import React from 'react'
 import Cloth from "../../Assets/Tee 1.svg"
 import Certificate from "../../Assets/certificate.svg"
+import price from "../../Assets/3200.svg"
 import "./Sales.css"
 
 const Sales = () => {
@@ -11,6 +12,7 @@ const Sales = () => {
             <img src={Cloth} alt='' style={{ width:"53%"}} />
         </div>
         <button className='Sales_button'>Buy Merchandise</button>
+        <img src={price} alt=""  className='Sales_price'/>
 
         <div>
           <img src={Certificate} alt=''/>

@@ -37,6 +37,11 @@
   border: 2px #157ebf solid;
   margin-left: 7%;
   position: absolute;
-  margin-top: -8%;
+  margin-top: -11%;
   cursor: pointer;
+}
+.Sales_price{
+  position: absolute;
+  margin-left: 45%;
+  margin-top: -13%;
 }
