@@ -64,6 +64,9 @@
   display: flex;
   margin: 5%;
 }
+.Question{
+  height: 100vh;
+}
 .Questions_flex {
   display: flex;
   flex-wrap: wrap;

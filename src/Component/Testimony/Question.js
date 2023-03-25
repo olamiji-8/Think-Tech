@@ -1,9 +1,10 @@
 import React from 'react'
 import {Questions} from "../../Data"
+import Register from './Register'
 import "./Testimony.css"
 const Question = () => {
   return (
-    <div>
+    <div className='Question'>
         <p className='Testimony_question'>Frequently Asked Questions</p>
         <div className='Questions_flex'>
         {Questions.map(Info =>{
@@ -14,6 +15,7 @@ const Question = () => {
         )
       })}
         </div>
+        <Register/>
     </div>
   )
 }

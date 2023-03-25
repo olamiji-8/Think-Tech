@@ -39,7 +39,6 @@ const Register = () => {
 
   return (
     <div>
-      <Testimony/>
       <div className='Register'>
         <p className='Testimony_register'>Start Learning</p>
         <div className='Register_flex'>

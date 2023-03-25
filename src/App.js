@@ -8,7 +8,9 @@ import Partners from './Component/Partners/Partners'
 import Sales from './Component/Sales/Sales'
 import Schedule from './Component/Schedule/Schedule'
 import Speakers from './Component/Speakers/Speakers'
-import Testimony from './Component/Testimony/Register'
+import Register from './Component/Testimony/Register'
+import Question from './Component/Testimony/Question'
+import Testimony from './Component/Testimony/Testimony'
 
 const App = () => {
   return (
@@ -19,7 +21,9 @@ const App = () => {
       <Courses/>
       <Speakers/>
       <Testimony/>
+      <Register/>
       <Sales/>
+      <Question/>
       <Footer/>
     </div>
   )
