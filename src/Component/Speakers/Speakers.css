@@ -2,15 +2,17 @@
   width: 100%;
   height: 70vh;
   background-color: #cae6ff;
+  margin: 0%;
 }
 .Speakers_text {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
-  line-height: 59px;
   text-align: center;
+  margin: 0px;
 }
+
 .Speakers_flex {
   display: flex;
   margin-left: 2%;
