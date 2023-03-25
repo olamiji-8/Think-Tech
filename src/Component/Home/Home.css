@@ -7,7 +7,7 @@
   line-height: 54px;
 }
 .Home_picture{
-  
+  position: absolute;
 }
 .Home_text {
   font-family: 'Fantasque Sans Mono';
@@ -38,7 +38,7 @@
   
 }
 .Home_chart{
-margin-top: 10%;
+margin-top: 16%;
 margin-left: 10%;
 
 }
