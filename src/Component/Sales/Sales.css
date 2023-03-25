@@ -69,6 +69,7 @@
 }
 .Sales_flex2{
   display: flex;
+  margin-top: 10%;
 }
 .Sales_textp2{
   font-family: 'Fantasque Sans Mono';

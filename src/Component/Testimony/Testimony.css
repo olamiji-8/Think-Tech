@@ -111,7 +111,7 @@
   outline: none;
   width: 150%;
 }
-.Register_button {
+ .Register_button {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
@@ -121,7 +121,7 @@
   outline: none;
   border: none;
   width: 85%;
-  height: 7%;
+  height: 10vh;
   border-bottom-left-radius: 12px;
   border-top-right-radius: 12px;
  margin-left: 30%;
