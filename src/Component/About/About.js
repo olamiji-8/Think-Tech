@@ -5,7 +5,6 @@ import "./About.css"
 const About = () => {
   return (
     <div className='About'>
-        <p className='About_text'>ABOUT US</p>
         <p className='About_para'>Register to participate in <p style={{color:"#F3A310", marginTop:"-2%"}}>Think Tech 3.0</p></p>
         <div className='About_flex'>
         <div className='About_img'>
