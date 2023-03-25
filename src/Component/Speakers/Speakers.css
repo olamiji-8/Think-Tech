@@ -1,3 +1,7 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
 .Speakers {
   width: 100%;
   height: 100vh;
@@ -18,7 +22,6 @@
   display: flex;
   margin-left: 2%;
   margin-right: 6%;
- 
   
 }
 
@@ -27,20 +30,21 @@
   margin-left: 90%;
 }
 .Speakers_name {
-  font-family: "Fantasque Sans Mono";
+  font-family: 'Fantasque Sans Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 255.02%;
+  background-color: yellowgreen;
   text-align: center;
 }
 .Speakers_post {
-  font-family: "Inter";
+  font-family: "Fantasque Sans Mono";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 800;
   font-size: 16px;
-  line-height: 255.02%;
   text-align: center;
+  background-color: yellow;
 }
 .Speaker_grid{
  display: grid;
