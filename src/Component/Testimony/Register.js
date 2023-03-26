@@ -43,7 +43,7 @@ const Register = () => {
         <p className='Testimony_register'>Start Learning</p>
         <div className='Register_flex'>
           <div>
-            <img src={Testimg} alt="" style={{marginLeft:"18%"}}/>
+            <img src={Testimg} alt="" style={{marginLeft:"18%"}} className= "Register_img"/>
           </div>
           
           <div style={{marginLeft:"10%"}}> 

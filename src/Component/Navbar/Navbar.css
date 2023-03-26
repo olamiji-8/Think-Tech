@@ -8,7 +8,6 @@
   margin-top: 2%;
   gap: 90px;
   justify-content: space-around;
-  
 }
 .Navbar_text {
   display: flex;
@@ -16,7 +15,7 @@
   width: 42%;
   cursor: pointer;
 }
-.Navbar_button{
+.Navbar_button {
   outline: none;
   cursor: pointer;
   border: none;
@@ -27,4 +26,42 @@
   font-weight: 400;
   line-height: 140.02%;
   font-size: 24px;
+  background-Color:#CAE6FF; 
+  height: 60px;
+  width: 28;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .Navbar {
+    display: flex;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140.02%;
+    font-size: 52px;
+    margin-top: 18%;
+    gap: 90px;
+    justify-content: space-around;
+  }
+  .Navbar_text {
+    display: flex;
+    justify-content: space-between;
+    width: 42%;
+    cursor: pointer;
+    gap: 48px;
+  }
+  .Navbar_button {
+    outline: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 9px;
+    margin-top: 10px;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140.02%;
+    font-size: 52px;
+    height: 132px;
+    width: 119%;
+  }
 }

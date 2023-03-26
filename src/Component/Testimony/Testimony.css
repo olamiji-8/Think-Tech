@@ -95,9 +95,7 @@
 .Register_flex {
   display: flex;
 }
-.Register_height{
-  height: 190vh;
-}
+
 .Register {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -187,5 +185,10 @@
     width: 100%;
     font-size: larger;
   }
+  .Register_img{
+    height: 80%;
+    width: 40%;
+    margin-left: 12%;
+  }
+  
 }
-

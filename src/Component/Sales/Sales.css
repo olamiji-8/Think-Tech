@@ -1,14 +1,7 @@
 .Sales {
+  width: 100vw;
   height: 220vh;
   background-color: #FFF2C1;
-}
-.Sales_text {
-  font-family: "Fantasque Sans Mono";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 400%;
-  text-align: center;
 }
 .Sales_flex {
   display: flex;
@@ -83,4 +76,56 @@ margin-top: 20%;
 }
 .Sales_certificate{
   margin-top: -12%;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px){
+  .Sales {
+    width: 396vw;;
+    height: 220vh;
+    background-color: #FFF2C1;
+  }
+  .Sales_flex {
+    display: flex;
+    margin-top: 38%;
+  }
+  .Sales_textp {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    margin-left: 6%;
+    margin-top: 11%;
+    width:90% ;
+  }
+  .Sales_button {
+    background-color: #cae6ff;
+    height: 99px;
+    border: none;
+    outline: none;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    width: 81%;
+    border: 2px #157ebf solid;
+    margin-left: 25%;
+    position: absolute;
+    margin-top: -18%;
+    cursor: pointer;
+  }
+  .Sales_price {
+    position: absolute;
+    margin-left: 201%;
+    margin-top: -40%;
+}
+.Sales_certificate {
+  margin-top: 10%;
+}
+.Sales_price2 {
+  position: absolute;
+  margin-left: 95%;
+  margin-top: -124%;
+}
 }
