@@ -30,6 +30,11 @@
   height: 60px;
   width: 28;
 }
+.Navbar_img{
+  cursor:pointer;
+   margin-left:-3%;
+}
+
 
 @media (min-width: 320px) and (max-width: 480px) {
   .Navbar {
@@ -63,5 +68,9 @@
     font-size: 52px;
     height: 132px;
     width: 119%;
+  }
+  .Navbar_img{
+    cursor:pointer;
+    margin-left: 54%;
   }
 }
