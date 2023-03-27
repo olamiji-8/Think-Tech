@@ -1,10 +1,10 @@
 .Testimony {
   height: 68vh;
   width: 100%;
-  display: flex;
-  flex-wrap: wrap;
+
 }
 .Testimony_text {
+  flex-wrap: wrap;
   display: flex;
   justify-content: center;
   justify-items: center;
