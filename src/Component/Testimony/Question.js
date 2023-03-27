@@ -1,5 +1,6 @@
 import React from 'react'
 import {Questions} from "../../Data"
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import Register from './Register'
 import "./Testimony.css"
 const Question = () => {
@@ -11,6 +12,7 @@ const Question = () => {
         return(
           <div className='Questions_border'>
             <p className='Questions_text'>{Info.question}</p>
+            <ArrowDropDownIcon/>
           </div>
         )
       })}
