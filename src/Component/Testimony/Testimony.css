@@ -5,6 +5,9 @@
   flex-wrap: wrap;
 }
 .Testimony_text {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
@@ -12,6 +15,7 @@
   line-height: 59px;
   color: #211c1c;
   text-align: center;
+
 }
 .Testimony_question {
   font-family: "Fantasque Sans Mono";
@@ -181,7 +185,7 @@
     width: 100%;
   }
   .Register{
-    width: 100vw;
+    width: 100%;
     font-size: 41.333px;
   }
   .Register_input {

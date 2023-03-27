@@ -56,7 +56,7 @@
 
 @media (min-width: 320px) and (max-width: 480px){
   .Speakers {
-    width: 396vw;
+    width: 100%;
     height: 171vh;
     background-color: #cae6ff;
     margin: 0%;
@@ -65,7 +65,7 @@
 
 @media (min-width: 1025px) and (max-width: 1200px){
   .Speakers {
-    width: 130%;
+    width: 100%;
     height: 78vh;
     background-color: #cae6ff;
     margin: 0%;
