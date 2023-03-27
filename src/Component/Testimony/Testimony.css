@@ -109,6 +109,8 @@
   border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
   outline: none;
   width: 150%;
+  margin-top: -30%;
+  font-size: larger;
 }
  .Register_button {
   font-family: "Fantasque Sans Mono";
@@ -166,6 +168,9 @@
     padding-left: 28px;
     height: 50px;
 
+}
+.Register_img{
+  margin-left: 18%;
 }
 
 @media (min-width: 320px) and (max-width: 480px){
