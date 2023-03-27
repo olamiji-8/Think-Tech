@@ -1,6 +1,8 @@
 .Testimony {
   height: 68vh;
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 .Testimony_text {
   font-family: "Fantasque Sans Mono";
@@ -176,10 +178,10 @@
 @media (min-width: 320px) and (max-width: 480px){
   .Testimony {
     height: 105vh;
-    width: 381vw;
+    width: 100%;
   }
   .Register{
-    width: 362vw;
+    width: 100vw;
     font-size: 41.333px;
   }
   .Register_input {
