@@ -19,7 +19,6 @@ const App = () => {
       <Schedule/>
       <About/>
       <Courses/>
-      <Speakers/>
       <Testimony/>
       <Register/>
       <Sales/>
