@@ -30,10 +30,12 @@ const Courses = () => {
            {
             Subcourses.map(data=>{
               return(
+                <div className='Courses_respone'>
                 <div className='Courses_subborder'>
                   <img src={data.img} alt="" className='Courses_imgp' />
                   <p className='Courses_titlep'> {data.title}</p>
                   <p className='Courses_descriptionp'>{data.description}</p>
+                </div>
                 </div>
               )
             })
