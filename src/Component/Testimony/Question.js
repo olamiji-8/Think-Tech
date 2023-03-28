@@ -12,7 +12,11 @@ const Question = () => {
         return(
           <div className='Questions_border'>
             <p className='Questions_text'>{Info.question}</p>
+            <div className='Drop_downborder'>
+              <div className='Drop_down'>
             <ArrowDropDownIcon/>
+          </div>
+          </div>
           </div>
         )
       })}

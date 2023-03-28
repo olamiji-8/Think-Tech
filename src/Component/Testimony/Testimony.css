@@ -98,6 +98,19 @@ display: flex;
   width: 100%;
   margin-left: 4%;
 }
+.Drop_downborder{
+  padding: 4% 10% 4% 4%;
+
+  
+}
+.Drop_down{
+background-color: white;
+padding-left:90% ;
+padding-right:90% ;
+width: 100%;
+height: 80%;
+border-radius: 25px;
+}
 .Register_flex {
   display: flex;
 }
