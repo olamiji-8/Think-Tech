@@ -121,6 +121,11 @@
     line-height: 140.02%;
     padding-top: 10%;
   }
+  .Courses_subtitle{
+    text-align: center;
+    font-size: 63px;
+    margin-top: 14%;
+  }
 }
 @media (min-width: 1025px) and (max-width: 1200px){
   .Courses {
