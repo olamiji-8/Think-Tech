@@ -20,7 +20,7 @@ const Home = () => {
         </div>
          <p className='Home_text'>There's room for you in the tech ecosystem. Join us to kickstart your tech journey with the right information and in-demand skills.</p>
         <button className='Home_button'>Register</button>
-        <div>
+        <div className='Home_anime'>
         <img src={Monitor} alt='' className='Home_monitor'/>
         <img src={Work} alt='' className='Home_work'/>
         </div> 

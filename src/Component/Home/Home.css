@@ -122,13 +122,17 @@ margin-top: -2.4%;
   }
   .Home_monitor{
   position: absolute;
-  margin-left: 6%;
-  margin-top:6% ;
+  margin-left: 14%;
+  margin-top:61% ;
   }
   .Home_work{
   position: absolute;
-  margin-left:70% ;
-  margin-top: -2.4%;
+  margin-left: 245%;
+  margin-top: 17.6%;
+  }
+  .Home_anime{
+    display: flex;
+    justify-items: center;
   }
 }
 
