@@ -13,7 +13,7 @@ const Home = () => {
         <Navbar/>
         <div className='Home_flex'>
         <img src={Pie} alt='' className='Home_pie'/>
-        <img src={Hometext} alt="" style={{marginLeft:"10%", marginTop:"10%"}} className="Home_picture"/>
+        <img src={Hometext} alt="" className="Home_picture"/>
         </div>
         <div>
         <img src={Chart} alt='' className='Home_chart'/>

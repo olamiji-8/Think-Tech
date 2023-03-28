@@ -9,6 +9,8 @@
 }
 .Home_picture{
   position: absolute;
+  margin-left:10%;
+   margin-top:10%;
 }
 .Home_text {
   font-family: 'Fantasque Sans Mono';
@@ -73,21 +75,21 @@ margin-top: -2.4%;
     line-height: 54px;
   }
   .Home_picture{
+    display: flex;
     position: absolute;
-    width: fit-content;
+    margin-left:38%;
+    justify-content: end;
 
   }
   .Home_text {
-    font-family: 'Fantasque Sans Mono';
-    font-style: normal;
-    font-weight: 400;
+    display: flex;
+    width: 900px;
+    height: 52px;
     font-size: 32px;
-    line-height: 46px;
-    text-align: center;
-    width: 237%;
-    margin-left: 67%;
-    margin-right: 18%;
-    margin-top: -1%;
+    line-height: 30px;
+    margin-left: 40%;
+    
+    color: #211C1C;
   }
   .Home_button {
     height: 112px;
