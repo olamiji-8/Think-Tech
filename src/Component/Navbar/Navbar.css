@@ -43,24 +43,23 @@
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
-    line-height: 140.02%;
+    line-height: 40%;
     font-size: 52px;
     margin-top: 18%;
-    justify-content: space-around;
+   
   }
   .Navbar_text {
-    display: flex;
-    justify-content: space-between;
-    width: 42%;
+    /* display: grid; */
     cursor: pointer;
-    gap: 48px;
+    justify-items: center;
+
   }
   .Navbar_button {
     outline: none;
     cursor: pointer;
     border: none;
     border-radius: 9px;
-    margin-top: 10px;
+  
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
