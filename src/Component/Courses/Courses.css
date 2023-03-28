@@ -93,25 +93,25 @@
 }
 .Courses_dflex {
   display: flex;
+ 
 }
 .Courses_imgflex {
   margin-left: 26%;
 }
-.Courses_imgp{
-  width:100% ;
+.Courses_imgp {
+  width: 100%;
   height: 40%;
-  
 }
-.Courses_respone{
+.Courses_respone {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
 }
 
-@media (min-width: 320px) and (max-width: 480px){
-  .Courses{
+@media (min-width: 320px) and (max-width: 480px) {
+  .Courses {
     margin: 0px;
-    padding: top 1px; 
+    padding: top 1px;
     height: 332vh;
     width: 103rem;
   }
@@ -121,13 +121,31 @@
     line-height: 140.02%;
     padding-top: 10%;
   }
-  .Courses_subtitle{
+  .Courses_subtitle {
     text-align: center;
     font-size: 63px;
     margin-top: 14%;
   }
+  .Courses_flex {
+    display: flex;
+    margin: 9% 2% 3% 15%;
+    flex-direction: column;
+  }
+  .Courses_border {
+    background: #fdfdfd;
+    box-shadow: -2px 2px 9px rgba(0, 0, 0, 0.25);
+    margin: 2% 0% 2% -5%;
+    padding: 16% 4% 4% 8%;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Courses_dflex {
+    display: flex;
+    width: 100%;
+   
+  }
 }
-@media (min-width: 1025px) and (max-width: 1200px){
+@media (min-width: 1025px) and (max-width: 1200px) {
   .Courses {
     width: 100%;
     height: 165vh;
