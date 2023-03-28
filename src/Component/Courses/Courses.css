@@ -110,8 +110,16 @@
 
 @media (min-width: 320px) and (max-width: 480px){
   .Courses{
+    margin: 0px;
+    padding: top 1px; 
     height: 332vh;
-    width: 100%;
+    width: 103rem;
+  }
+  .Courses_title {
+    font-size: 77px;
+    text-align: center;
+    line-height: 140.02%;
+    padding-top: 10%;
   }
 }
 @media (min-width: 1025px) and (max-width: 1200px){
