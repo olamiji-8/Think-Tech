@@ -53,7 +53,7 @@ text-transform: capitalize;
 }
 @media (min-width: 320px) and (max-width: 480px){
   .Schedule {
-    width: 100%;
+    width: 102rem;
     height: 263vh;
     background-color: #cae6ff66;
   }
@@ -94,11 +94,12 @@ text-transform: capitalize;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 44px;
   line-height: 54px;
-  width: 44%;
-  padding-left: 18%;
+  width: 65%;
+  padding-left: 25%;
   padding-top: 10%;
+  word-spacing: 3px;
 }
 }
 
