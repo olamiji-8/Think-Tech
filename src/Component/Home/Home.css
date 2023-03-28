@@ -83,12 +83,11 @@ margin-top: -2.4%;
   }
   .Home_text {
     display: flex;
-    width: 900px;
-    height: 52px;
+    width: 1262px;
     font-size: 32px;
-    line-height: 30px;
-    margin-left: 40%;
-    
+    line-height: 48px;
+    margin-left: 60%;
+    letter-spacing: 5px;
     color: #211C1C;
   }
   .Home_button {
@@ -113,8 +112,8 @@ margin-top: -2.4%;
     gap: 30px;
   }
   .Home_chart{
-  margin-top: 10%;
-  margin-left: 30%;
+  margin-top: 12%;
+  margin-left: 60%;
   
   }
   .Home_pie{
