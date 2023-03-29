@@ -24,7 +24,6 @@ const App = () => {
       <Sales/>
       <Question/>
       <Footer/>
-      hi
     </div>
   )
 }
