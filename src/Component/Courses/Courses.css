@@ -144,6 +144,17 @@
     width: 100%;
    
   }
+  .Courses_description {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    color: #211c1c;
+    opacity: 0.6;
+    margin-top: -2px;
+    margin-left: 5%;
+    width: 59%;
+}
 }
 @media (min-width: 1025px) and (max-width: 1200px) {
   .Courses {
