@@ -168,6 +168,17 @@
   margin:0%;
   width: 26%;
 }
+.Courses_addition {
+  width: 100%;
+    margin-left: 0%;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 100%;
+    padding-top: 21%;
+    text-align: center;
+}
 }
 @media (min-width: 1025px) and (max-width: 1200px) {
   .Courses {
