@@ -29,7 +29,7 @@
 }
 @media (min-width: 320px) and (max-width: 480px) {
   .Footer {
-    height: 100vh;
+    height: 160vh;
     background-color: #cae6ff;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
@@ -39,4 +39,14 @@
     color: #606060;
     text-align: center;
   }
+  .Footer_img {
+    width: 359px;
+  }
+  .Footer_textp {
+    font-family: "Fantasque Sans Mono";
+    word-spacing: 10px;
+    font-size: 40px;
+    margin-left: 1%;
+    margin-top: 104px;
+}
 }
