@@ -151,9 +151,22 @@
     font-size: 48px;
     color: #211c1c;
     opacity: 0.6;
-    margin-top: -2px;
-    margin-left: 5%;
-    width: 59%;
+    margin-top: 29px;
+    margin-left: 2%;
+    width: 80%;
+}
+.Courses_stack{
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 56px;
+  margin-left: 2%;
+  width: 78%;
+}
+.Courses_imgflex {
+  margin:0%;
+  width: 32%;
 }
 }
 @media (min-width: 1025px) and (max-width: 1200px) {
