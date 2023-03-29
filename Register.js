@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Testimg from '../../Assets/Testimony.svg'
-import {db} from "../../firebase"
+import {db} from "./src/firebase"
 import "./Testimony.css"
 
 const Register = () => {
