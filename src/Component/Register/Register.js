@@ -42,7 +42,7 @@ const Register = () => {
             <img src={Testimg} alt="" className="Register_img" />
           </div>
 
-          <div style={{ marginLeft: "10%" }}>
+          <div className="Register_form">
             <form onSubmit={handleSubmit}>
               <p>Name</p>
               <input

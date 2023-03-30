@@ -2,9 +2,11 @@
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 44px;
     line-height: 140%;
     text-align: center;
+    margin-top: 10%;
+    margin-left: 10%;
   
     color: #211c1c;
   }
@@ -13,6 +15,7 @@
   }
   .Register_height{
     width: 80%;
+    height: 180vh;
   }
   
   .Register {
@@ -89,7 +92,16 @@
   
   }
   .Register_img{
-    margin-left: 18%;
+    margin-top: 6%;
+    margin-left: 8%;
+    width: 90%;
+    height: 98%;
+  }
+  .Register_form{
+    margin-top: 6%;
+    margin-left: 0%;
+    font-size: 18px;
+    font-weight: 300;
   }
   @media (min-width: 320px) and (max-width: 480px){
     .Register{
