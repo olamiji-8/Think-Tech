@@ -11,6 +11,9 @@
   .Register_flex {
     display: flex;
   }
+  .Register_height{
+    width: 100%;
+  }
   
   .Register {
     font-family: "Fantasque Sans Mono";

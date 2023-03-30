@@ -1,5 +1,6 @@
 .Question{
     height: 250vh;
+    width: 100%;
   }
   .Questions_flex {
     display: flex;
