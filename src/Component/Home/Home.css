@@ -71,7 +71,9 @@ width:18%;
 
 @media (min-width: 320px) and (max-width: 480px){
   .Home {
-    height: 250vh;
+    background-color: yellow;
+    height: 240vh;
+    width: 103rem;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
@@ -81,43 +83,44 @@ width:18%;
   .Home_picture{
     display: flex;
     position: absolute;
-    margin-left:38%;
-    justify-content: end;
-
+    margin-left:34%;
+    width:fit-content;
+    margin-top: 40%;
   }
   .Home_text {
     display: flex;
-    width: 1262px;
-    font-size: 32px;
+    margin-top: 1%;
+    font-size: 42px;
     line-height: 48px;
-    margin-left: 60%;
-    letter-spacing: 5px;
     color: #211C1C;
+    width: 78%;
+    text-align: center;
+    margin-left: 10%;
   }
   .Home_button {
     height: 112px;
     background-color: #CAE6FF;
-    width: 100%;
+    
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
     font-size: 44px;
     outline: none;
     border: none;
-    margin-left: 146%;
-    margin-top: 10%;
+   width: 40%;
+    margin-top: 3%;
     cursor: pointer;
     border-radius: 9px;
-    
+    margin-left: 30%;
   }
   .Home_flex{
     display: flex;
-    margin-left: 20%;
+   
     gap: 30px;
   }
   .Home_chart{
-  margin-top: 12%;
-  margin-left: 60%;
+  margin-top: 14%;
+  margin-left: 11%;
   
   }
   .Home_pie{
@@ -126,12 +129,12 @@ width:18%;
   }
   .Home_monitor{
   position: absolute;
-  margin-left: 14%;
+ 
   margin-top:61% ;
   }
   .Home_work{
   position: absolute;
-  margin-left: 245%;
+ 
   margin-top: 17.6%;
   }
   .Home_anime{

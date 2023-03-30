@@ -46,11 +46,11 @@
     font-weight: 400;
     line-height: 40%;
     font-size: 52px;
-    margin-top: 18%;
+   
    
   }
   .Navbar_text {
-    /* display: grid; */
+    display: grid; 
     cursor: pointer;
     justify-items: center;
 
@@ -71,6 +71,7 @@
   }
   .Navbar_img{
     cursor:pointer;
-    margin-left: 54%;
+    margin-left: 4%;
+    width: 20%;
   }
 }
