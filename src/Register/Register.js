@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import Testimg from "../../Assets/Testimony.svg";
+import Testimg from "../Assets/Testimony.svg";
 import { db } from "../firebase";
-import "./Testimony.css";
 
 const Register = () => {
   const [name, setName] = useState("");
