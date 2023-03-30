@@ -17,10 +17,10 @@
   font-family: 'Fantasque Sans Mono';
   font-style: normal;
   font-weight: 400;
-  font-size: 28px;
+  font-size: 24px;
   line-height: 46px;
   text-align: center;
-  width: 74%;
+  width: 62%;
   margin-left: 18%;
   margin-top: -4%;
 }
@@ -35,9 +35,10 @@
   line-height: 54px;
   outline: none;
   border: none;
-  margin-left: 42%;
+  margin-left: 40%;
   cursor: pointer;
   border-radius: 9px;
+  margin-top: 2%;
   
 }
 .Home_flex{
@@ -57,12 +58,14 @@ margin-top: 7.2%;
 .Home_monitor{
 position: absolute;
 margin-left: 6%;
-margin-top:6% ;
+margin-top:4% ;
+width: 14%;
 }
 .Home_work{
 position: absolute;
-margin-left:70% ;
-margin-top: -2.4%;
+margin-left:72% ;
+margin-top: -3.8%;
+width:18%;
 }
 
 
