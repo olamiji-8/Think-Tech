@@ -1,6 +1,6 @@
 // import React from "react";
 // import { Testi } from "../../Data";
-// import "./Testimony.css";
+
 // const Testimony = () => {
 //   return (
 //     <div className="Testimony">
