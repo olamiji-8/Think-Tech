@@ -1,6 +1,6 @@
 .Question{
     height: 250vh;
-    width: 80%;
+    width: 100%;
   }
   .Questions_flex {
     display: flex;
@@ -38,6 +38,17 @@
   width: 100%;
   height: 80%;
   border-radius: 25px;
+  }
+  .Testimony_question {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 59px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 8%;
+    
   }
 
   @media (min-width: 320px) and (max-width: 480px){
