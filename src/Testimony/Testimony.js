@@ -1,5 +1,5 @@
 import React from "react";
-import { Testi } from "../../Data";
+import { Testi } from "../Data";
 
 const Testimony = () => {
   return (
