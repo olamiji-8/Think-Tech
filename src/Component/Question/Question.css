@@ -1,0 +1,44 @@
+.Question{
+    height: 250vh;
+  }
+  .Questions_flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+  .Questions_border {
+    background-color: #cae6ffcc;
+  display: flex;
+    width: 48%;
+    margin-left: 1.3%;
+    margin-top: 3%;
+  }
+  .Questions_text {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 183%;
+    display: flex;
+    width: 100%;
+    margin-left: 4%;
+  }
+  .Drop_downborder{
+    padding: 4% 10% 4% 4%;
+  
+    
+  }
+  .Drop_down{
+  background-color: white;
+  padding-left:90% ;
+  padding-right:90% ;
+  width: 100%;
+  height: 80%;
+  border-radius: 25px;
+  }
+
+  @media (min-width: 320px) and (max-width: 480px){
+    
+  }

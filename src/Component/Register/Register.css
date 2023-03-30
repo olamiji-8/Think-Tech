@@ -1,0 +1,109 @@
+.Testimony_register {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 140%;
+    text-align: center;
+  
+    color: #211c1c;
+  }
+  .Register_flex {
+    display: flex;
+  }
+  
+  .Register {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.333px;
+    line-height: 183%;
+  }
+  .Register_input {
+    background: transparent;
+    border: none;
+    border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
+    outline: none;
+    width: 150%;
+    margin-top: -30%;
+    font-size: larger;
+  }
+   .Register_button {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26.7996px;
+    line-height: 28px;
+    background-color: #CAE6FF;
+    outline: none;
+    border: none;
+    width: 85%;
+    height: 10vh;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+   margin-left: 30%;
+   margin-top: 10%;
+   cursor: pointer;
+  }
+  .Register_stack{
+      display: flex;
+      height: 14%;
+      width: 100%;
+  }
+  .Register_mobile{
+      background-color: #FFF2C1;
+      width: 94%;
+      box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      padding: 30px 17px;
+     
+  }
+  .Register_data{
+      background-color: #FFF2C1;
+      margin-left: 7%;
+      width: 74%;
+      box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      padding: 30px 17px;
+  }
+  .Register_beginner{
+      background-color: #FFF2C1;
+      box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      width: 30%;
+      height: 50px;
+      padding-top: 18px;
+      padding-left: 28px;
+  }
+  .Register_intermediate{
+      background-color: #FFF2C1;
+      box-shadow: 0px 0px 4.4666px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      width: 40%;
+      padding-top: 14px;
+      padding-left: 28px;
+      height: 50px;
+  
+  }
+  .Register_img{
+    margin-left: 18%;
+  }
+  @media (min-width: 320px) and (max-width: 480px){
+    .Register{
+        width: 100%;
+        font-size: 41.333px;
+      }
+      .Register_input {
+        background: transparent;
+        border: none;
+        border-bottom: 1.11665px solid rgba(0, 0, 0, 0.5);
+        outline: none;
+        width: 100%;
+        font-size: larger;
+      }
+      .Register_img{
+        height: 80%;
+        width: 40%;
+        margin-left: 12%;
+      }
+  }

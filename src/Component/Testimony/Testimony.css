@@ -1,0 +1,74 @@
+.Testimony {
+    height: 68vh;
+    width: 104rem;
+  
+  }
+  .Testimony_text {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 59px;
+    color: #211c1c;
+    text-align: center;
+  
+  }
+  .Testimony_question {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 59px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+
+  .Testimony_border {
+    border: 1px #157ebf solid;
+    opacity: 0.8;
+    margin: 0.5%;
+  }
+  .Testimonytext {
+    width: 84%;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 192.02%;
+    padding-left: 7%;
+  }
+  .Testimonyname {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 225.02%;
+    padding-left: 7%;
+  }
+  .Testimonypost {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 202.02%;
+    padding-left: 7%;
+  }
+  .Testimony_flex {
+    display: flex;
+    margin: 5%;
+  }
+  
+  @media (min-width: 320px) and (max-width: 480px){
+    .Testimony {
+      height: 900vh;
+      background-color: yellow;
+    }
+  
+    
+  }
+  
