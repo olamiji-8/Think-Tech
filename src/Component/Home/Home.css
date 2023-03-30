@@ -1,5 +1,5 @@
 .Home {
-  width: 80%;
+  width: 100%;
   height: 110vh;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
@@ -17,12 +17,12 @@
   font-family: 'Fantasque Sans Mono';
   font-style: normal;
   font-weight: 400;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 46px;
   text-align: center;
-  width: 68%;
-  margin-left: 10%;
-  margin-top: -1%;
+  width: 74%;
+  margin-left: 18%;
+  margin-top: -4%;
 }
 .Home_button {
   height: 80px;
@@ -44,8 +44,9 @@
   display: flex;
 }
 .Home_chart{
-margin-top: 2%;
-margin-left: 10%;
+margin-top: 1.2%;
+margin-left: 10.6%;
+width: 10%;
 
 }
 .Home_pie{
