@@ -6,34 +6,35 @@
   font-style: normal;
   font-weight: 400;
   line-height: 140.02%;
-  font-size: 24px;
-  margin-top: 2%;
+  font-size: 18px;
+  margin-top: 4%;
   justify-content: space-around;
 }
 .Navbar_text {
   display: flex;
   justify-content: space-between;
-  width: 42%;
+  width: 48%;
   cursor: pointer;
+  margin-top: 1%;
+  gap: 10px;
 }
 .Navbar_button {
   outline: none;
   cursor: pointer;
   border: none;
   border-radius: 9px;
-  margin-top: 10px;
+  margin-top: -3%;
   font-style: normal;
   font-weight: 400;
-  line-height: 140.02%;
-  font-size: 24px;
+  font-size: 18px;
   background-Color:#CAE6FF; 
   height: 60px;
-  width: 28;
+  width: 28%;
 }
 .Navbar_img{
   cursor:pointer;
    margin-left:-3%;
-   width: fit-content;
+   width: 8%;
 }
 
 
