@@ -9,7 +9,7 @@ import Sales from "./Component/Sales/Sales";
 import Schedule from "./Component/Schedule/Schedule";
 import Register from "./Register/Register";
 import Question from "./Question/Question";
-import Testimony from "./Testimony/Testimony";
+
 
 const App = () => {
   return (
@@ -18,7 +18,7 @@ const App = () => {
       <Schedule />
       <About />
       <Courses />
-      <Testimony />
+      {/* <Testimony /> */}
       <Register/>
       <Sales />
       <Question />
