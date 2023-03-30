@@ -7,39 +7,42 @@
   font-weight: 700;
 }
 .Courses_title {
-  font-size: 56px;
+  font-size: 44px;
   text-align: center;
-  line-height: 140.02%;
+  line-height: 100%;
   padding-top: 10%;
 }
 .Courses_subtitle {
-  font-size: 48px;
-
+  font-size: 34px;
+  margin-top: 6%;
   margin-left: 8%;
+  font-weight: 900;
 }
 .Courses_flex {
+  width: 90%;
   display: flex;
-  margin: 0% 1% 0% 5%;
+  margin: 2% 1% 0% 5%;
 }
 .Courses_stack {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
-  line-height: 36px;
+  font-size: 24px;
+padding: 1%;
   margin-left: 5%;
-  width: 38%;
+  width: 80%;
+ 
 }
 .Courses_description {
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   color: #211c1c;
   opacity: 0.6;
   margin-top: -2px;
   margin-left: 5%;
-  width: 60%;
+  width: 54%;
 }
 .Courses_border {
   background: #fdfdfd;
@@ -53,11 +56,11 @@
 .Courses_addition {
   width: 448px;
   height: 67px;
-  margin-left: 8%;
+  margin-left: 3%;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 700;
-  font-size: 48px;
+  font-size: 34px;
   line-height: 140%;
   padding-top: 4%;
   text-align: center;
@@ -93,7 +96,6 @@
 }
 .Courses_dflex {
   display: flex;
- 
 }
 .Courses_imgflex {
   margin-left: 26%;
@@ -113,7 +115,7 @@
     margin: 0px;
     padding: top 1px;
     height: 900vh;
-    width:100%;
+    width: 100%;
   }
   .Courses_title {
     font-size: 77px;
@@ -142,7 +144,6 @@
   .Courses_dflex {
     display: flex;
     width: 100%;
-   
   }
   .Courses_description {
     font-family: "Fantasque Sans Mono";
@@ -154,22 +155,22 @@
     margin-top: -57px;
     margin-left: 2%;
     width: 80%;
-}
-.Courses_stack{
-  font-family: "Fantasque Sans Mono";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 50px;
-  line-height: 56px;
-  margin-left: 2%;
-  width: 78%;
-}
-.Courses_imgflex {
-  margin:0%;
-  width: 26%;
-}
-.Courses_addition {
-  width: 100%;
+  }
+  .Courses_stack {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 56px;
+    margin-left: 2%;
+    width: 78%;
+  }
+  .Courses_imgflex {
+    margin: 0%;
+    width: 26%;
+  }
+  .Courses_addition {
+    width: 100%;
     margin-left: 0%;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
@@ -178,7 +179,7 @@
     line-height: 100%;
     padding-top: 21%;
     text-align: center;
-}
+  }
 }
 @media (min-width: 1025px) and (max-width: 1200px) {
   .Courses {
