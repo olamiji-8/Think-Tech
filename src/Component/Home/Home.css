@@ -237,7 +237,49 @@ width:18%;
 }
 }
 @media (min-width: 769px) and (max-width: 900px){
-
+  .Home {
+    background-color: yellow;
+    height: 140vh;
+    width: 100rem;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .Home_picture {
+    position: absolute;
+    width: 165%;
+    margin-left: 5%;
+    margin-top: 14%;
+}
+.Home_text {
+  font-family: 'Fantasque Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  text-align: center;
+  width: 73%;
+  margin-left: 14%;
+  margin-right: 33%;
+  margin-top: -3%;
+}
+.Home_button {
+  height: 80px;
+  background-color: #CAE6FF;
+  width: 31%;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 54px;
+  outline: none;
+  border: none;
+  margin-left: 32%;
+  cursor: pointer;
+  border-radius: 9px;
+}
 }
 @media (min-width: 901px) and (max-width: 1024px){
   .Home {
