@@ -62,10 +62,30 @@
   
   @media (min-width: 320px) and (max-width: 480px){
     .Testimony {
-      height: 900vh;
+      height: 200vh;
+      width: 103rem;
       background-color: yellow;
     }
+    .Testimony_flex {
+      display: flex;
+      margin: 5%;
+      height: 60%;
   
+    }
+    .Testimony_text {
+      flex-wrap: wrap;
+      display: flex;
+      justify-content: center;
+      justify-items: center;
+      font-family: "Fantasque Sans Mono";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 44px;
+      line-height: 249px;
+      color: #211c1c;
+      text-align: center;
+    margin: 0px;
+    }
     
   }
   

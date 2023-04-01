@@ -106,8 +106,10 @@
   }
   @media (min-width: 320px) and (max-width: 480px){
     .Register{
-        width: 100%;
+      background-color: brown;
+        width: 103rem;
         font-size: 41.333px;
+       
       }
       .Register_input {
         background: transparent;
@@ -121,5 +123,17 @@
         height: 80%;
         width: 40%;
         margin-left: 12%;
+      }
+      .Testimony_register {
+        font-family: "Fantasque Sans Mono";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 44px;
+        line-height: 140%;
+        text-align: center;
+        margin-top: 0%;
+        margin-left: 14%;
+      
+        color: #211c1c;
       }
   }

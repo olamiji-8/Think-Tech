@@ -29,6 +29,7 @@
 }
 @media (min-width: 320px) and (max-width: 480px) {
   .Footer {
+    width: 103rem;
     height: 160vh;
     background-color: #cae6ff;
     font-family: "Fantasque Sans Mono";

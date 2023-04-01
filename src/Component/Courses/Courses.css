@@ -117,7 +117,7 @@ padding: 1%;
     margin: 0px;
     padding: top 1px;
     height: 900vh;
-    width: 100%;
+    width: 103rem;
   }
   .Courses_title {
     font-size: 77px;
@@ -132,16 +132,16 @@ padding: 1%;
   }
   .Courses_flex {
     display: flex;
-    margin: 9% 2% 3% 15%;
+    margin: 9% 2% 3% 7%;
     flex-direction: column;
   }
   .Courses_border {
     background: #fdfdfd;
     box-shadow: -2px 2px 9px rgba(0, 0, 0, 0.25);
-    margin: 2% 0% 2% -5%;
-    padding: 16% 4% 4% 8%;
-    width: -moz-fit-content;
-    width: fit-content;
+    margin: 2% 0% 2% -2%;
+    padding: 16% 2% 4% 8%;
+
+    width: 90%;
   }
   .Courses_dflex {
     display: flex;

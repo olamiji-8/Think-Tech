@@ -8,6 +8,7 @@ const Navbar = () => {
     <div className='Navbar'>
        <img src={ThinkTech} alt=''  className="Navbar_img"/>
        <div className='Navbar_text'>
+       
        <p>About</p>
        <p>Courses</p>
        <p>Speakers</p>

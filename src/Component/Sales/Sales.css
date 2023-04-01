@@ -84,13 +84,13 @@ width: 30%;
 
 @media (min-width: 320px) and (max-width: 480px){
   .Sales {
-    width: 100%;
+    width: 103rem;
     height: 220vh;
-    background-color: #FFF2C1;
+    /* background-color: #FFF2C1; */
+    background-color: yellowgreen;
   }
   .Sales_flex {
     display: flex;
-    margin-top: 38%;
   }
   .Sales_textp {
     font-family: "Fantasque Sans Mono";
