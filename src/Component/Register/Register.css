@@ -186,5 +186,27 @@
     }
   }
   @media (min-width: 769px) and (max-width: 900px){
+    .Register{
+      width: 100rem;
+      font-size: 41.333px;
+      background-color: yellow;
 
+     
+    }
+    .Register_form{
+      margin-top: 6%;
+      margin-left: 0%;
+      font-size: 29px;
+      font-weight: 300;
+    }
+    .Register_img{
+      margin-top: 6%;
+      margin-left: 8%;
+      width: 90%;
+      height: 98%;
+    }
+    .Register_height{
+      width: 80%;
+      height: 300vh;
+    }
   }
