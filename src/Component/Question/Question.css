@@ -150,5 +150,42 @@
   }
   }
   @media (min-width: 769px) and (max-width: 900px){
-
+    .Question{
+      height: 140vh;
+      width: 100rem;
+      background-color: fuchsia;
+    }
+    .Testimony_question {
+      font-family: "Fantasque Sans Mono";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 42px;
+      line-height: 59px;
+      text-transform: uppercase;
+      text-align: center;
+      margin-top: 0%;
+      
+    }
+    .Questions_text {
+      font-family: "Fantasque Sans Mono";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 33px;
+      line-height: 183%;
+      display: flex;
+      width: 100%;
+      margin-left: 4%;
+    }
+    .Drop_down {
+      background-color: white;
+      width: 115%;
+      height: 64%;
+      border-radius: 27px;
+      padding-bottom: 7px;
+  }
+  .Drop_downborder{
+    padding: 10% 10% 4% 4%;
+  
+    
+  }
   }
