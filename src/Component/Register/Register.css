@@ -160,3 +160,6 @@
         height: 300vh;
       }
   }
+  @media (min-width: 601px) and (max-width: 768px){
+
+  }

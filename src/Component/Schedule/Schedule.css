@@ -153,7 +153,9 @@ text-transform: capitalize;
 }
 
 }
+@media (min-width: 601px) and (max-width: 768px){
 
+}
 
 @media (min-width: 1025px) and (max-width: 1200px){
   .Schedule {
