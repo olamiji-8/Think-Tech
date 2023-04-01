@@ -183,6 +183,9 @@ padding: 1%;
     text-align: center;
   }
 }
+@media (min-width: 481px) and (max-width: 600px){
+  
+}
 @media (min-width: 1025px) and (max-width: 1200px) {
   .Courses {
     width: 100%;
