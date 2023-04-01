@@ -165,7 +165,7 @@
       width: 100rem;
       font-size: 41.333px;
       background-color: yellow;
-      
+
      
     }
     .Register_form{
@@ -184,4 +184,7 @@
       width: 80%;
       height: 300vh;
     }
+  }
+  @media (min-width: 769px) and (max-width: 900px){
+
   }
