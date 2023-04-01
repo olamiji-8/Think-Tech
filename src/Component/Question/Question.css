@@ -54,7 +54,7 @@
   @media (min-width: 320px) and (max-width: 480px){
     .Question{
       height: 250vh;
-      width: 103rem;
+      width: 80rem;
       background-color: fuchsia;
     }
     .Testimony_question {

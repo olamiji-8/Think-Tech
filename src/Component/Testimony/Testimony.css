@@ -63,7 +63,7 @@
   @media (min-width: 320px) and (max-width: 480px){
     .Testimony {
       height: 200vh;
-      width: 103rem;
+      width: 80rem;
       background-color: yellow;
     }
     .Testimony_flex {

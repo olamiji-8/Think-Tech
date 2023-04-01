@@ -41,7 +41,7 @@
 @media (min-width: 320px) and (max-width: 480px){
   .About{
     height: 240vh;
-    width: 102rem;
+    width: 80rem;
     background-color: yellow;
     padding-top: 1px;
   }
