@@ -151,16 +151,16 @@ width:18%;
     font-size: 32px;
     line-height: 46px;
     text-align: center;
-    width: 187%;
-    margin-left: 32%;
+    width: 62%;
+    margin-left: 18%;
     margin-right: 33%;
-    margin-top: -1%;
+    margin-top: 7%;
 }
 
 .Home_button {
   height: 80px;
   background-color: #CAE6FF;
-  width: 54%;
+  width: 24%;
   font-family: "Fantasque Sans Mono";
   font-style: normal;
   font-weight: 400;
@@ -168,10 +168,27 @@ width:18%;
   line-height: 54px;
   outline: none;
   border: none;
-  margin-left: 87%;
+  margin-left: 37%;
   cursor: pointer;
   border-radius: 9px;
 }
+.Home_picture {
+  position: absolute;
+  width: 202%;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.Home {
+  background-color: yellow;
+  height: 240vh;
+  width: 100rem;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 54px;
+}
+
 }
 
 @media (min-width: 601px) and (max-width: 768px){

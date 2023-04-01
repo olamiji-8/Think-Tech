@@ -75,4 +75,25 @@
     width: 20%;
   }
 }
-@media (min-width: 481px) and (max-width: 600px){}
+@media (min-width: 481px) and (max-width: 600px){
+  .Navbar_img {
+    /* line-height: 461px; */
+    width: 213px;
+    cursor: pointer;
+    margin-left: 8%;
+    margin-top: 70px;
+}
+    .Navbar {
+      width: 100%;
+      flex-wrap: wrap;
+      display: flex;
+      font-family: "Fantasque Sans Mono";
+      font-style: normal;
+      font-weight: 400;
+      line-height: 140.02%;
+      font-size: 18px;
+      margin-top: 0%;
+      justify-content: space-around;
+      width: 30%;
+}
+}
