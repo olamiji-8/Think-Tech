@@ -130,5 +130,58 @@
 }
   }
   @media (min-width: 601px) and (max-width: 768px){
-
+    .Testimony {
+      height: 200vh;
+      width: 100rem;
+    
+      
+    }
+    .Testimony_flex {
+      display: flex;
+      margin: 5%;
+      height: 54%;
+  
+      
+    }
+    .Testimonytext {
+      width: 84%;
+      font-family: "Fantasque Sans Mono";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 29px;
+      line-height: 192.02%;
+      padding-left: 11%;
+      margin-top: 12%;
+  }
+  .Testimonyname {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 225.02%;
+    padding-left: 11%;
+    margin-top: 23%;
+}
+.Testimonypost {
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 202.02%;
+  padding-left: 11%;
+}
+.Testimony_text {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  font-family: "Fantasque Sans Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 249px;
+  color: #211c1c;
+  text-align: center;
+margin: 0px;
+}
   }
