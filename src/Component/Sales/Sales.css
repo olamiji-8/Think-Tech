@@ -132,4 +132,30 @@ width: 30%;
   margin-top: -124%;
 }
 }
-@media (min-width: 481px) and (max-width: 600px){}
+@media (min-width: 481px) and (max-width: 600px){
+  .Sales {
+    width: 100rem;
+    height: 280vh;
+    /* background-color: #FFF2C1; */
+    background-color: yellowgreen;
+  }
+  .Sales_flex {
+    display: flex;
+  } 
+  .Sales_button {
+    background-color: #cae6ff;
+    height: 99px;
+    border: none;
+    outline: none;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    width: 81%;
+    border: 2px #157ebf solid;
+    margin-left: 25%;
+    position: absolute;
+    margin-top: -18%;
+    cursor: pointer;
+  }
+}
