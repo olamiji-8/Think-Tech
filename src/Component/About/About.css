@@ -68,7 +68,35 @@
   }
 }
 @media (min-width: 481px) and (max-width: 600px){
-  
+  .About {
+    height: 180vh;
+    width: 100rem;
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 700;
+    
+  }
+  .About_para {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 89px;
+    color: #274472;
+    width: 700px;
+    
+    
+  }
+  .About_subpara {
+    font-family: "Fantasque Sans Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 60px;
+    color: #274472;
+    width: 77%;
+    
+  }
 }
 
 @media (min-width: 1025px) and (max-width: 1200px){

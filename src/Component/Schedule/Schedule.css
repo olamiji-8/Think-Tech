@@ -105,7 +105,7 @@ text-transform: capitalize;
 
 @media (min-width: 481px) and (max-width: 600px){
   .Schedule {
-    width: 100%;
+    width: 100rem;
     height: 263vh;
     background-color: #cae6ff66;
 }
@@ -114,9 +114,9 @@ text-transform: capitalize;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
-  line-height: 54px;
+  line-height: 80px;
   width: 76%;
-  padding-left: 26%;
+  padding-left: 17%;
   padding-top: 12%;
 }
 .Schedule_started {
