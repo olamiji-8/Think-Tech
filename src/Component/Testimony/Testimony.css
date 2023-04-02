@@ -1,5 +1,5 @@
 .Testimony {
-    height: 68vh;
+    height: 700px;
     width: 100%;
   
   }
@@ -56,7 +56,7 @@
   .Testimony_flex {
     display: flex;
     margin: 5%;
-    height: 60%;
+    height: 40%;
 
   }
   
