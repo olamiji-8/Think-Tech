@@ -105,9 +105,13 @@
     font-weight: 300;
   }
   @media (min-width: 320px) and (max-width: 480px){
-    .Register{
+    .Register_height{
       background-color: brown;
-        width: 80rem;
+      width: 80rem;
+      height: 1400px;
+    }
+    .Register{
+        height: 2000px;
         font-size: 41.333px;
        
       }

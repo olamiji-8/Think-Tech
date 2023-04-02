@@ -53,7 +53,7 @@
 
   @media (min-width: 320px) and (max-width: 480px){
     .Question{
-      height: 250vh;
+      height: 1690px;
       width: 80rem;
       background-color: fuchsia;
     }
