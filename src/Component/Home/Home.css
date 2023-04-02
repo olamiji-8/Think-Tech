@@ -282,7 +282,7 @@ width:18%;
 }
 @media (min-width: 901px) and (max-width: 1024px){
   .Home {
-    height: 110vh;
+    height: 737px;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
@@ -347,7 +347,7 @@ width:18%;
 @media (min-width: 1025px) and (max-width: 1200px){
   .Home {
     width: 100%;
-    height: 110vh;
+    height: 700px;
     font-family: "Fantasque Sans Mono";
     font-style: normal;
     font-weight: 400;
