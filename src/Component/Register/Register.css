@@ -160,8 +160,9 @@
         height: 98%;
       }
       .Register_height{
-        width: 80%;
-        height: 300vh;
+        width: 100rem;
+        height: 1400px;
+        background-color: #CAE6FF;
       }
   }
   @media (min-width: 601px) and (max-width: 768px){

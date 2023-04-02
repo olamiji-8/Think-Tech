@@ -106,7 +106,7 @@ text-transform: capitalize;
 @media (min-width: 481px) and (max-width: 600px){
   .Schedule {
     width: 100rem;
-    height: 263vh;
+    height: 1417px;
     background-color: #cae6ff66;
 }
 .Schedule_text {

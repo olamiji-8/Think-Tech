@@ -135,7 +135,7 @@ width: 30%;
 @media (min-width: 481px) and (max-width: 600px){
   .Sales {
     width: 100rem;
-    height: 280vh;
+    height: 1712px;
     /* background-color: #FFF2C1; */
     background-color: yellowgreen;
   }
