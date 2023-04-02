@@ -195,7 +195,7 @@
     .Register{
       width: 100rem;
       font-size: 41.333px;
-      background-color: yellow;
+    
 
      
     }
@@ -212,7 +212,8 @@
       height: 98%;
     }
     .Register_height{
-      width: 80%;
-      height: 300vh;
+      width: 100rem;
+      height: 1595px;
+      background-color: yellow;
     }
   }
